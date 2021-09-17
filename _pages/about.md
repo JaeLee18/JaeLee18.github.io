@@ -16,10 +16,8 @@ redirect_from:
 
 ---
 
-* :star: 2021.05,  Finished Core Ph.D Core Requirement<font size="1"> (Equivalent to a qualification exam in other univs.)</font>
-<br/>
-* 2021.01, Started the first Ph.D semester in CS at Purdue University.
-<br/>
-* 2018.05, Recieved Bacheolr of Science in Computer Sciecne(CS) at Purdue University.
+💥 2021.05|  Finished Core Ph.D Core Requirement<font size="1"> (Equivalent to a qualification exam in other univs.)</font>
+2021.01| Started the first Ph.D semester in CS at Purdue University.
+2018.05| Recieved Bacheolr of Science in Computer Sciecne(CS) at Purdue University.
 
 ---
