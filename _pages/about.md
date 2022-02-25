@@ -15,7 +15,7 @@ redirect_from:
 - I received my Bachelor's Degree at [Purdue University](https://www.purdue.edu/) in Computer Science.
 
 ---
-
+21' 11| Had a presentation on my research projects.
 21' 05| 💥 Finished Ph.D Core Requirements<font size="1"> (Equivalent to a qualification exam in other univs.)</font>
 21' 01| Started the first Ph.D semester in CS at Purdue University.
 18' 05| Recieved Bacheolr of Science in Computer Sciecne(CS) at Purdue University.
