@@ -15,6 +15,7 @@ redirect_from:
 - I received my Bachelor's Degree at [Purdue University](https://www.purdue.edu/) in Computer Science.
 
 ---
+
 22' 05| 👔 Samsung Electronics Research Internship in Deep Learning Vision Team
 22' 02| Got Deep Learning certification from NVIDIA Deep Learning Institute.
 21' 11| Had a presentation on my research projects.
