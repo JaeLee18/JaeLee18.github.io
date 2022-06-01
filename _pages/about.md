@@ -16,7 +16,6 @@ redirect_from:
 
 ---
 
-22' 05| 👔 Samsung Electronics Research Internship in Deep Learning Vision Team
 22' 02| Got Deep Learning certification from NVIDIA Deep Learning Institute.
 21' 11| Had a presentation on my research projects.
 21' 05| 💥 Finished Ph.D Core Requirements<font size="1"> (Equivalent to a qualification exam in other univs.)</font>
