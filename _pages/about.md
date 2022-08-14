@@ -16,10 +16,10 @@ redirect_from:
 
 ---
 
-Got Deep Learning certification from NVIDIA Deep Learning Institute.
-💥 Finished Ph.D Core Requirements<font size="1"> (Equivalent to a qualification exam in other univs.)</font>
-Started the first Ph.D Program semester in CS at Purdue University.
-🎓 Recieved Bachelor of Science in Computer Sciecne(CS) at Purdue University.
+4 | Got Deep Learning certification from NVIDIA Deep Learning Institute.
+3 | 💥 Finished Ph.D Core Requirements<font size="1"> (Equivalent to a qualification exam in other univs.)</font>
+2 | Started the first Ph.D Program semester in CS at Purdue University.
+1 | 🎓 Recieved Bachelor of Science in Computer Sciecne(CS) at Purdue University.
 
 ---
 
@@ -32,4 +32,4 @@ Started the first Ph.D Program semester in CS at Purdue University.
 
 OCR and BERT based Document Classification | LG Electronics
 Conformer based Custom Voice Recognition  | LG Electronics
-Out of Distribution, un-seen data detection | Samsung Electronics
+Out of Distribution, Un-seen Data Detection using Classification Method | Samsung Electronics
