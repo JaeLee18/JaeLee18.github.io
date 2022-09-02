@@ -10,7 +10,7 @@ redirect_from:
 
 - My name is Lee, Jae Joong and I am a Ph.D student in the [Computer Science Department](https://www.cs.purdue.edu/) at [Purdue University](https://www.purdue.edu/), advised by [Professor Benes, Bedrich](http://hpcg.purdue.edu/bbenes/). And I am a [member](http://hpcg.purdue.edu/bbenes/students/) of [High Performance Comnputer Graphics Laboratory](http://hpcg.purdue.edu/).
   <br/>
-- My resarch interests lie in Deep Learning in 3D (Data Generative Model).
+- My resarch interests lie in Deep Learning in 3D (Deep Generative Model).
   <br/>
 - I received my Bachelor's Degree at [Purdue University](https://www.purdue.edu/) in Computer Science.
 
@@ -31,5 +31,5 @@ redirect_from:
 ## Research Projects
 
 OCR and BERT based Document Classification | LG Electronics
-Conformer based Custom Voice Recognition  | LG Electronics
+Conformer based Custom Voice Recognition(Speech-to-Text)   | LG Electronics
 Out of Distribution, Un-seen Data Detection using Classification Method | Samsung Electronics
