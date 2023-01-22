@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- My name is Lee, Jae Joong and I am a Ph.D student in the [Computer Science Department](https://www.cs.purdue.edu/) at [Purdue University](https://www.purdue.edu/), advised by [Professor Benes, Bedrich](http://hpcg.purdue.edu/bbenes/). And I am a [member](http://hpcg.purdue.edu/bbenes/students/) of [High Performance Comnputer Graphics Laboratory](http://hpcg.purdue.edu/).
+- My name is Lee, Jae Joong and I am a Ph.D student in the [Computer Science Department](https://www.cs.purdue.edu/) at [Purdue University](https://www.purdue.edu/), advised by [Professor Benes, Bedrich](https://www.cs.purdue.edu/homes/bbenes/). And I am a [member](https://www.cs.purdue.edu/homes/bbenes/students/) of [Computer Graphics and Visualization Laboratory](https://www.cs.purdue.edu/cgvlab/www/).
   <br/>
 - My resarch interests lie in Deep Learning in 3D (Deep Generative Model).
   <br/>
@@ -29,7 +29,8 @@ redirect_from:
 20' 01 | Smartphone-based lateral flow imaging system for detection of food-borne bacteria E. coli O157: H7, Youngkee Jung, Yoojung Heo, **Jae Joong Lee**, Amanda Deering, Euiwon Bae, Journal of microbiological methods, [link](https://www.sciencedirect.com/science/article/pii/S0167701219308942)
 
 ## Research Projects
-
+Out of Distribution, Un-seen Data Detection using Classification Method | Samsung Electronics
+Process Optimization using Tree based Machine Learning | LG Electronics
 OCR and BERT based Document Classification | LG Electronics
 Conformer based Custom Voice Recognition(Speech-to-Text)   | LG Electronics
-Out of Distribution, Un-seen Data Detection using Classification Method | Samsung Electronics
+
