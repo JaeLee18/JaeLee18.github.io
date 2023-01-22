@@ -33,4 +33,3 @@ Out of Distribution, Un-seen Data Detection using Classification Method | Samsun
 Process Optimization using Tree based Machine Learning | LG Electronics
 OCR and BERT based Document Classification | LG Electronics
 Conformer based Custom Voice Recognition(Speech-to-Text)   | LG Electronics
-
