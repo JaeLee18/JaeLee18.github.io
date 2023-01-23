@@ -29,6 +29,7 @@ redirect_from:
 20' 01 | Smartphone-based lateral flow imaging system for detection of food-borne bacteria E. coli O157: H7, Youngkee Jung, Yoojung Heo, **Jae Joong Lee**, Amanda Deering, Euiwon Bae, Journal of microbiological methods, [link](https://www.sciencedirect.com/science/article/pii/S0167701219308942)
 
 ## Research Projects
+
 | Title  | Affiliation|
 | ------------- | ------------- |
 | Out of Distribution, Un-seen Data Detection using Classification Method  | Samsung Electronics  |
