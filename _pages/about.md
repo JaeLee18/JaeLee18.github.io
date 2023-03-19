@@ -34,6 +34,7 @@ redirect_from:
 | Title  | Affiliation|
 | ------------- | ------------- |
 | Out of Distribution, Un-seen Data Detection using Classification Method  | Samsung Electronics  |
-| Process Optimization using Tree based Machine Learning | LG Electronics |
-| OCR and BERT based Document Classification | LG Electronics |
+| Confidential Document Classification | Korea Testing Laboratory |
+| Inventory Process Optimization using Tree based Machine Learning | LG Electronics |
 | Conformer based Custom Voice Recognition(Speech-to-Text)   | LG Electronics |
+| Unstructured data extraction with custom OCR and Transformer(AI) based Document Classification | LG Electronics |
