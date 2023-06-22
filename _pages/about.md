@@ -16,7 +16,7 @@ redirect_from:
 
 ---
 
-5 | Offered $500K Samsung Electronics Scholarship.
+5 | Offered Samsung Electronics Scholarship.
 4 | Got Deep Learning certification from NVIDIA Deep Learning Institute.
 3 | 💥 Finished Ph.D Core Requirements<font size="1"> (Equivalent to a qualification exam in other univs.)</font>
 2 | Started the first Ph.D Program semester in CS at Purdue University.
