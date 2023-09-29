@@ -16,7 +16,7 @@ redirect_from:
 
 ---
 
-6 | Invited to present my work at SIGGRAPH2024!
+6 | "Latent L-systems: Transformer-based Tree Generator" is accepted to ACM Transaction on Graphics. Invited to present it at SIGGRAPH2024!
 5 | Offered Samsung Electronics Scholarship.
 4 | Got Deep Learning certification from NVIDIA Deep Learning Institute.
 3 | 💥 Finished Ph.D Core Requirements<font size="1"> (Equivalent to a qualification exam in other univs.)</font>
