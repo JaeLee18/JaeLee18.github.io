@@ -75,7 +75,7 @@ social:
 analytics:
   provider               :  "google-gtag" # false (default), "google", "google-universal", "custom"
   google:
-    measurement_id          : "G-BD60ZPZ37D"
+    measurement_id          : "G-N25FRP8L37"
 
 
 # Site Author
