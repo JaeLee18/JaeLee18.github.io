@@ -10,17 +10,17 @@ redirect_from:
 
 - My name is Lee, Jae Joong and I am a Ph.D student in the [Computer Science Department](https://www.cs.purdue.edu/) at [Purdue University](https://www.purdue.edu/), advised by [Professor Benes, Bedrich](https://www.cs.purdue.edu/homes/bbenes/). And I am a [member](https://www.cs.purdue.edu/homes/bbenes/students/) of [Computer Graphics and Visualization Laboratory](https://www.cs.purdue.edu/cgvlab/www/).
   <br/>
-- My resarch interests lie in Deep Learning in 3D (Deep Generative Model).
+- My research interests lie in Deep Learning in 3D (Reconstruction, Deep Generative Model).
   <br/>
 - I received my Bachelor's Degree at [Purdue University](https://www.purdue.edu/) in Computer Science.
 
 ---
 
-7 | 🎉 Received Merit Recognition Award from Purdue Univesity
+7 | 🎉 Received Merit Recognition Award from Purdue University.
 6 | 📜 "Latent L-systems: Transformer-based Tree Generator" is accepted to ACM Transaction on Graphics. Invited to present it at SIGGRAPH2024!
 5 | 🎉 Offered Samsung Electronics Scholarship.
 4 | Got Deep Learning certification from NVIDIA Deep Learning Institute.
-3 | 💥 Finished Ph.D Core Requirements<font size="1"> (Equivalent to a qualification exam in other univs.)</font>
+3 | 💥 Finished Ph.D. Core Requirements<font size="1"> (Equivalent to a qualification exam in other univs.)</font>
 2 | Started the first Ph.D Program semester in CS at Purdue University.
 1 | 🎓 Recieved Bachelor of Science in Computer Sciecne(CS) at Purdue University.
 
@@ -39,6 +39,6 @@ redirect_from:
 | ------------- | ------------- |
 | Out of Distribution, Un-seen Data Detection using Classification Method  | Samsung Electronics  |
 | Confidential Document Classification | Korea Testing Laboratory |
-| Inventory Process Optimization using Tree based Machine Learning | LG Electronics |
+| Inventory Process Optimization using Tree-based Machine Learning | LG Electronics |
 | Conformer based Custom Voice Recognition(Speech-to-Text)   | LG Electronics |
 | Unstructured data extraction with custom OCR and Transformer(AI) based Document Classification | LG Electronics |
