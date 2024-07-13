@@ -16,7 +16,7 @@ redirect_from:
 
 ---
 
-8 | 📜 My paper just got accepted to ECCV 2024.
+8 | 📜 My paper is accepted to ECCV 2024. See you in Milan, Italy🇮🇹. [Project Website](https://www.jaejoonglee.com/treedfusion/)
 7 | 🎉 Received Merit Recognition Award from Purdue University.
 6 | 📜 "Latent L-systems: Transformer-based Tree Generator" is accepted to ACM Transaction on Graphics. Invited to present it at SIGGRAPH2024!
 5 | 🎉 Offered Samsung Electronics Scholarship.
