@@ -31,11 +31,10 @@ redirect_from:
 
 ## Publications
 
-- Tree-D Fusion: Simulation-Ready Tree Dataset from Single Images with Diffusion Priors, **Jae Joong Lee**, Bosheng Li, Sara Beery, Jonathan Huang, Songlin Fei, Raymond A. Yeh, Bedrich Benes, *European Conference on Computer Vision 2024*, [link](https://www.arxiv.org/abs/2407.10330)
-- Latent L-systems: Transformer-based Tree Generator, **Jae Joong Lee**, Bosheng Li, Benes, Bedrich, *ACM Transaction on Graphics*, presented at SIGGRAPH2024 [link](https://dl.acm.org/doi/10.1145/3627101)
-- Machine Learning-Based Classification of Mushrooms Using a Smartphone Application, **Jae Joong Lee**, M Catherine Aime, Bartek Rajwa, Euiwon Bae, *Applied Sciences*, [link](https://www.mdpi.com/2076-3417/12/22/11685)
-- A computer vision approach for classifying isometric grip force exertion levels, Hamed Asadi, Guoyang Zhou, **Jae Joong Lee**, Vaneet Aggarwal, Denny Yu, *Ergonomics*, [link](https://www.tandfonline.com/doi/full/10.1080/00140139.2020.1745898)
-- Smartphone-based lateral flow imaging system for detection of food-borne bacteria E. coli O157: H7, Youngkee Jung, Yoojung Heo, **Jae Joong Lee**, Amanda Deering, Euiwon Bae, *Journal of microbiological methods*, [link](https://www.sciencedirect.com/science/article/pii/S0167701219308942)
+- Tree-D Fusion: Simulation-Ready Tree Dataset from Single Images with Diffusion Priors, **Jae Joong Lee**, Bosheng Li, Sara Beery, Jonathan Huang, Songlin Fei, Raymond A. Yeh, Bedrich Benes, **European Conference on Computer Vision 2024**, [link](https://www.arxiv.org/abs/2407.10330)
+- Latent L-systems: Transformer-based Tree Generator, **Jae Joong Lee**, Bosheng Li, Benes, Bedrich, **ACM Transaction on Graphics**, presented at SIGGRAPH2024 [link](https://dl.acm.org/doi/10.1145/3627101)
+- Machine Learning-Based Classification of Mushrooms Using a Smartphone Application, **Jae Joong Lee**, M Catherine Aime, Bartek Rajwa, Euiwon Bae, **Applied Sciences**, [link](https://www.mdpi.com/2076-3417/12/22/11685)
+
 
 ## Industrial Research Projects
 
