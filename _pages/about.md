@@ -47,3 +47,7 @@ redirect_from:
 | Inventory Process Optimization using Tree-based Machine Learning | LG Electronics |
 | Conformer based Custom Voice Recognition(Speech-to-Text)   | LG Electronics |
 | Unstructured data extraction with custom OCR and Transformer(AI) based Document Classification | LG Electronics |
+
+
+## Reviewers
+- IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 
