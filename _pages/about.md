@@ -16,7 +16,7 @@ redirect_from:
 
 ---
 
-## Updates (08.15.24)
+## Updates (Oct.28.24)
 
 9 | 📜 Another paper, Single Image to 3D Point Cloud, is accepted to WACV 2025.
 8 | 📜 My paper is accepted to ECCV 2024. See you in Milan, Italy🇮🇹. [Project Website](https://www.jaejoonglee.com/treedfusion/)
@@ -42,6 +42,7 @@ redirect_from:
 
 | Title  | Affiliation|
 | ------------- | ------------- |
+| Role Recommendation based on HR information using LLM | LG Electronics|
 | Prevent duplication of image evidence using AI | LG Electronics|
 | Object tracking and material detection | SeAH Steel Holdings |
 | Out of Distribution, Un-seen Data Detection using Classification Method  | Samsung Electronics  |
