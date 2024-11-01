@@ -37,8 +37,8 @@ redirect_from:
 ## ![RGB2Point](images/rgb2point.png)  
 **3D Point Cloud Generation from Single RGB Images**  
 
-*Authors*: **Jae Joong Lee**, Benes, Bedrich
-*Venue*: [IEEE/CVF Winter Conference on Applications of Computer Vision 2025](https://www.arxiv.org/abs/2407.14979)
+*Authors*: **Jae Joong Lee**, Benes, Bedrich  
+*Venue*: [IEEE/CVF Winter Conference on Applications of Computer Vision 2025](https://www.arxiv.org/abs/2407.14979)  
 *Year*: 2024  
 
 ---
