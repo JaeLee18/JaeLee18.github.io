@@ -38,10 +38,10 @@ redirect_from:
 **3D Point Cloud Generation from Single RGB Images**  
 
 *Authors*: **Jae Joong Lee**, Benes, Bedrich
-
 *Venue*: [IEEE/CVF Winter Conference on Applications of Computer Vision 2025](https://www.arxiv.org/abs/2407.14979)
-
 *Year*: 2024  
+
+---
 
 ## ![Tree-D Fusion](images/treedfusion.png)  
 [🔥Top Conference🔥] **Tree-D Fusion: Simulation-Ready Tree Dataset from Single Images with Diffusion Priors**  
