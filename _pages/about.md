@@ -19,7 +19,7 @@ redirect_from:
 ## Updates (Oct.28.24)
 
 9 | 📜 Another paper, Single Image to 3D Point Cloud, is accepted to WACV 2025.
-8 | 📜 My paper is accepted to ECCV 2024. See you in Milan, Italy🇮🇹. [Project Website](https://www.jaejoonglee.com/treedfusion/)
+8 | 📜 My paper, Tree-D Fusion, is accepted to ECCV 2024. See you in Milan, Italy🇮🇹. [Project Website](https://www.jaejoonglee.com/treedfusion/)
 7 | 🎉 Received Merit Recognition Award from Purdue University.
 6 | 📜 "Latent L-systems: Transformer-based Tree Generator" is accepted to ACM Transaction on Graphics, and invited to present at SIGGRAPH2024!
 5 | 🎉 Offered Samsung Electronics Scholarship.
@@ -30,36 +30,37 @@ redirect_from:
 
 ---
 
-## Publications
-
--  *RGB2Point: 3D Point Cloud Generation from Single RGB Images*, **Jae Joong Lee**, Bedrich Benes, **IEEE/CVF Winter Conference on Applications of Computer Vision 2025**, [link](https://www.arxiv.org/abs/2407.14979)
-- [🔥Top conference🔥] *Tree-D Fusion: Simulation-Ready Tree Dataset from Single Images with Diffusion Priors*, **Jae Joong Lee**, Bosheng Li, Sara Beery, Jonathan Huang, Songlin Fei, Raymond A. Yeh, Bedrich Benes, **European Conference on Computer Vision 2024**, [link](https://www.arxiv.org/abs/2407.10330)
-- [🔥Top journal🔥] *Latent L-systems: Transformer-based Tree Generator*, **Jae Joong Lee**, Bosheng Li, Benes, Bedrich, **ACM Transaction on Graphics 2023**, presented at SIGGRAPH2024 [link](https://dl.acm.org/doi/10.1145/3627101)
-- *Machine Learning-Based Classification of Mushrooms Using a Smartphone Application*, **Jae Joong Lee**, M Catherine Aime, Bartek Rajwa, Euiwon Bae, **Applied Sciences**, [link](https://www.mdpi.com/2076-3417/12/22/11685)
-
-
 # Publications
 
 ---
 
 ## ![RGB2Point](images/rgb2point.png)  
 **3D Point Cloud Generation from Single RGB Images**  
+
 *Authors*: **Jae Joong Lee**, Benes, Bedrich
+
 *Venue*: [IEEE/CVF Winter Conference on Applications of Computer Vision 2025](https://www.arxiv.org/abs/2407.14979)
+
 *Year*: 2024  
 
 ## ![Tree-D Fusion](images/treedfusion.png)  
 [🔥Top Conference🔥] **Tree-D Fusion: Simulation-Ready Tree Dataset from Single Images with Diffusion Priors**  
+
 *Authors*: **Jae Joong Lee**, Bosheng Li, Sara Beery, Jonathan Huang, Songlin Fei, Raymond A. Yeh, Bedrich Benes
+
 *Venue*: [European Conference on Computer Vision 2024](https://www.arxiv.org/abs/2407.10330)  
+
 *Year*: 2024  
 
 ---
 
 ## ![Latent L-systems](images/latentlsystem.png)  
 [🔥Top Journal🔥] **Latent L-systems: Transformer-based Tree Generator**  
+
 *Authors*: **Jae Joong Lee**, Bosheng Li, Benes, Bedrich
+
 *Venue*: [ACM Transactions on Graphics](https://dl.acm.org/doi/10.1145/3627101), presented at SIGGRAPH2024
+
 *Year*: 2024  
 
 ---
