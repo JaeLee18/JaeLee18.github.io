@@ -10,7 +10,7 @@ redirect_from:
 
 - My name is Lee, Jae Joong and I am a Ph.D student in the [Computer Science Department](https://www.cs.purdue.edu/) at [Purdue University](https://www.purdue.edu/), advised by [Professor Benes, Bedrich](https://www.cs.purdue.edu/homes/bbenes/). And I am a [member](https://www.cs.purdue.edu/homes/bbenes/students/) of [Computer Graphics and Visualization Laboratory](https://www.cs.purdue.edu/cgvlab/www/).
   <br/>
-- My research interests lie in Deep Learning in 3D (Reconstruction, Deep Generative Model).
+- My research interests focus on deep learning for computer vision, with an emphasis on 3D applications, including reconstruction and deep generative models.
   <br/>
 - I received my Bachelor's Degree at [Purdue University](https://www.purdue.edu/) in Computer Science.
 
@@ -37,6 +37,32 @@ redirect_from:
 - [🔥Top journal🔥] *Latent L-systems: Transformer-based Tree Generator*, **Jae Joong Lee**, Bosheng Li, Benes, Bedrich, **ACM Transaction on Graphics 2023**, presented at SIGGRAPH2024 [link](https://dl.acm.org/doi/10.1145/3627101)
 - *Machine Learning-Based Classification of Mushrooms Using a Smartphone Application*, **Jae Joong Lee**, M Catherine Aime, Bartek Rajwa, Euiwon Bae, **Applied Sciences**, [link](https://www.mdpi.com/2076-3417/12/22/11685)
 
+
+# Publications
+
+---
+
+## ![RGB2Point](images/rgb2point.png)  
+**3D Point Cloud Generation from Single RGB Images**  
+*Authors*: **Jae Joong Lee**, Benes, Bedrich
+*Venue*: [IEEE/CVF Winter Conference on Applications of Computer Vision 2025](https://www.arxiv.org/abs/2407.14979)
+*Year*: 2024  
+
+## ![Tree-D Fusion](images/treedfusion.png)  
+[🔥Top Conference🔥] **Tree-D Fusion: Simulation-Ready Tree Dataset from Single Images with Diffusion Priors**  
+*Authors*: **Jae Joong Lee**, Bosheng Li, Sara Beery, Jonathan Huang, Songlin Fei, Raymond A. Yeh, Bedrich Benes
+*Venue*: [European Conference on Computer Vision 2024](https://www.arxiv.org/abs/2407.10330)  
+*Year*: 2024  
+
+---
+
+## ![Latent L-systems](images/latentlsystem.png)  
+[🔥Top Journal🔥] **Latent L-systems: Transformer-based Tree Generator**  
+*Authors*: **Jae Joong Lee**, Bosheng Li, Benes, Bedrich
+*Venue*: [ACM Transactions on Graphics](https://dl.acm.org/doi/10.1145/3627101), presented at SIGGRAPH2024
+*Year*: 2024  
+
+---
 
 ## Industrial Research Projects
 
