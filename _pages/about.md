@@ -38,7 +38,7 @@ redirect_from:
 **3D Point Cloud Generation from Single RGB Images**  
 
 *Authors*: **Jae Joong Lee**, Benes, Bedrich  
-*Venue*: [IEEE/CVF Winter Conference on Applications of Computer Vision 2025](https://www.arxiv.org/abs/2407.14979)  
+*Venue*: IEEE/CVF Winter Conference on Applications of Computer Vision 2025, [Paper](https://www.arxiv.org/abs/2407.14979)  
 *Year*: 2024  
 
 ---
@@ -46,10 +46,8 @@ redirect_from:
 ## ![Tree-D Fusion](images/treedfusion.png)  
 [🔥Top Conference🔥] **Tree-D Fusion: Simulation-Ready Tree Dataset from Single Images with Diffusion Priors**  
 
-*Authors*: **Jae Joong Lee**, Bosheng Li, Sara Beery, Jonathan Huang, Songlin Fei, Raymond A. Yeh, Bedrich Benes
-
-*Venue*: [European Conference on Computer Vision 2024](https://www.arxiv.org/abs/2407.10330)  
-
+*Authors*: **Jae Joong Lee**, Bosheng Li, Sara Beery, Jonathan Huang, Songlin Fei, Raymond A. Yeh, Bedrich Benes  
+*Venue*: European Conference on Computer Vision 2024, [Paper](https://www.arxiv.org/abs/2407.10330)  
 *Year*: 2024  
 
 ---
@@ -57,10 +55,8 @@ redirect_from:
 ## ![Latent L-systems](images/latentlsystem.png)  
 [🔥Top Journal🔥] **Latent L-systems: Transformer-based Tree Generator**  
 
-*Authors*: **Jae Joong Lee**, Bosheng Li, Benes, Bedrich
-
-*Venue*: [ACM Transactions on Graphics](https://dl.acm.org/doi/10.1145/3627101), presented at SIGGRAPH2024
-
+*Authors*: **Jae Joong Lee**, Bosheng Li, Benes, Bedrich  
+*Venue*: ACM Transactions on Graphics, [Paper](https://dl.acm.org/doi/10.1145/3627101), presented at SIGGRAPH2024  
 *Year*: 2024  
 
 ---
