@@ -16,9 +16,9 @@ redirect_from:
 
 ---
 
-## Updates (Oct.28.24)
+## Updates (Nov.11.24)
 
-9 | 📜 Another paper, Single Image to 3D Point Cloud, is accepted to WACV 2025.
+9 | 📜 Another paper, Single Image to 3D Point Cloud, is accepted to WACV 2025. [Project Website](https://www.jaejoonglee.com/wacv25_rgb2point/)
 8 | 📜 My paper, Tree-D Fusion, is accepted to ECCV 2024. See you in Milan, Italy🇮🇹. [Project Website](https://www.jaejoonglee.com/treedfusion/)
 7 | 🎉 Received Merit Recognition Award from Purdue University.
 6 | 📜 "Latent L-systems: Transformer-based Tree Generator" is accepted to ACM Transaction on Graphics, and invited to present at SIGGRAPH2024!
