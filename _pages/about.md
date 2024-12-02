@@ -16,8 +16,9 @@ redirect_from:
 
 ---
 
-## Updates (Nov.11.24)
+## Updates (Dec.01.24)
 
+10 | My recent work, Tree-D fusion is covered by [MIT News](https://news.mit.edu/2024/advancing-urban-tree-monitoring-ai-powered-digital-twins-1121)
 9 | 📜 Another paper, Single Image to 3D Point Cloud, is accepted to WACV 2025. [Project Website](https://www.jaejoonglee.com/wacv25_rgb2point/)
 8 | 📜 My paper, Tree-D Fusion, is accepted to ECCV 2024. See you in Milan, Italy🇮🇹. [Project Website](https://www.jaejoonglee.com/treedfusion/)
 7 | 🎉 Received Merit Recognition Award from Purdue University.
