@@ -36,7 +36,7 @@ redirect_from:
 ---
 
 ## ![Hands Free VR](images/handsfreevr.png)  
-**LLM-based voice command VR**  
+**Hands Free VR: LLM-based voice command VR**  
 
 *Authors*: Jorge Askur Vazquez Fernandez\*, **Jae Joong Lee\***, Santiago Andres Serrano Vacca, Alejandra Magana, Radim Pesa, Bedrich Benes and Voicu Popescu 
 *Venue*: HUCAPP 2025, [Paper](https://arxiv.org/pdf/2402.15083)  
@@ -45,7 +45,7 @@ redirect_from:
 ---
 
 ## ![RGB2Point](images/rgb2point.png)  
-**3D Point Cloud Generation from Single RGB Images**  
+**RGB2POINT: 3D Point Cloud Generation from Single RGB Images**  
 
 *Authors*: **Jae Joong Lee**, Benes, Bedrich  
 *Venue*: IEEE/CVF Winter Conference on Applications of Computer Vision 2025, [Paper](https://www.arxiv.org/abs/2407.14979)  
