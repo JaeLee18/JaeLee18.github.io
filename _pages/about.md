@@ -38,7 +38,8 @@ redirect_from:
 ## ![Hands Free VR](images/handsfreevr.png)  
 **Hands Free VR: LLM-based voice command VR**  
 
-*Authors*: Jorge Askur Vazquez Fernandez\*, **Jae Joong Lee\***, Santiago Andres Serrano Vacca, Alejandra Magana, Radim Pesa, Bedrich Benes and Voicu Popescu 
+*Authors*: Jorge Askur Vazquez Fernandez\*, **Jae Joong Lee\***, Santiago Andres Serrano Vacca, Alejandra Magana, Radim Pesa, Bedrich Benes and Voicu Popescu
+ 
 *Venue*: HUCAPP 2025, [Paper](https://arxiv.org/pdf/2402.15083)  
 *Year*: 2024  
 
