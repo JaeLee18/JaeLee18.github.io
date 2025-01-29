@@ -40,7 +40,7 @@ redirect_from:
 
 *Authors*: Jorge Askur Vazquez Fernandez\*, **Jae Joong Lee\***, Santiago Andres Serrano Vacca, Alejandra Magana, Radim Pesa, Bedrich Benes and Voicu Popescu
  
-*Venue*: HUCAPP 2025, [Paper](https://arxiv.org/pdf/2402.15083)  
+*Venue*: VISGRAPP@HUCAPP 2025, [Paper](https://arxiv.org/pdf/2402.15083)  
 *Year*: 2024  
 
 ---
@@ -86,5 +86,6 @@ redirect_from:
 | Unstructured data extraction with custom OCR and Transformer(AI) based Document Classification | LG Electronics |
 
 
-## Reviewers
-- IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 
+## Services
+- IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 
