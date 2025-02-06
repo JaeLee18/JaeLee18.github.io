@@ -38,12 +38,31 @@ redirect_from:
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 0 0 200px; margin-right: 20px;">
+    <img src="/images/treedfusion.png" alt="treedfusion" style="width: 200px; height: auto;">
+  </div>
+  <div>
+    <h3>[🔥Top Journal🔥] Tree-D Fusion: Simulation-Ready Tree Dataset from Single Images with Diffusion Priors</h3>
+    <div>
+      European Conference on Computer Vision (ECCV), 2024 
+    </div>
+    <div>
+      <strong>Jae Joong Lee</strong>, Bosheng Li, Sara Beery, Jonathan Huang, Songlin Fei, Raymond A. Yeh, Bedrich Benes
+    </div>
+    <a href="https://www.arxiv.org/abs/2407.10330">Paper</a>
+  </div>
+</div>
+
+---
+
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 0 0 200px; margin-right: 20px;">
     <img src="/images/latentlsystem.png" alt="Latent L-systems" style="width: 200px; height: auto;">
   </div>
   <div>
     <h3>[🔥Top Journal🔥] Latent L-systems: Transformer-based Tree Generator</h3>
     <div>
-      ACM Transactions on Graphics, presented at SIGGRAPH2024  
+      ACM Transactions on Graphics (ACM ToG), 2024  
     </div>
     <div>
       <strong>Jae Joong Lee</strong>, Bosheng Li, Benes, Bedrich
