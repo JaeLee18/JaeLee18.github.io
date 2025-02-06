@@ -35,50 +35,6 @@ redirect_from:
 
 ---
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <!-- Thumbnail image container -->
-  <div style="flex: 0 0 200px; margin-right: 20px;">
-    <img src="/images/handsfreevr.png" alt="rgb2point.png" style="width: 200px; height: auto;">
-  </div>
-  <!-- Text information container -->
-  <div>
-    <h3>Hands Free VR: LLM-based voice command VR</h3>
-    Authors: Jorge Askur Vazquez Fernandez*, <strong>Jae Joong Lee*</strong>, Santiago Andres Serrano Vacca, Alejandra Magana, Radim Pesa, Bedrich Benes and Voicu Popescu<p>
-    Venue: International Conference on Human Computer Interaction Theory and Applications 2025, <a href="https://arxiv.org/pdf/2402.15083">Paper</a><p>
-  </div>
-</div>
-
----
-
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <!-- Thumbnail image container -->
-  <div style="flex: 0 0 200px; margin-right: 20px;">
-    <img src="/images/rgb2point.png" alt="rgb2point.png" style="width: 200px; height: auto;">
-  </div>
-  <!-- Text information container -->
-  <div>
-    <h3>RGB2POINT: 3D Point Cloud Generation from Single RGB Images</h3>
-    Authors: <strong>Jae Joong Lee</strong>, Bedrich Benes<p>
-    Venue: IEEE/CVF Winter Conference on Applications of Computer Vision 2025, <a href="https://www.arxiv.org/abs/2407.14979">Paper</a><p>
-  </div>
-</div>
-
----
-
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <!-- Thumbnail image container -->
-  <div style="flex: 0 0 200px; margin-right: 20px;">
-    <img src="/images/treedfusion.png" alt="treedfusion" style="width: 200px; height: auto;">
-  </div>
-  <!-- Text information container -->
-  <div>
-    <h3>[🔥Top Journal🔥] Tree-D Fusion: Simulation-Ready Tree Dataset from Single Images with Diffusion Priors</h3>
-    Authors: <strong>Jae Joong Lee</strong>, Bosheng Li, Sara Beery, Jonathan Huang, Songlin Fei, Raymond A. Yeh, Bedrich Benes<p>
-    Venue: European Conference on Computer Vision 2024, <a href="https://www.arxiv.org/abs/2407.10330">Paper</a><p>
-  </div>
-</div>
-
----
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <!-- Thumbnail image container -->
