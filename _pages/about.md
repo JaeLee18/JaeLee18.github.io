@@ -74,8 +74,8 @@ redirect_from:
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- Thumbnail image container -->
-  <div style="flex: 0 0 150px; margin-right: 20px;">
-    <img src="/images/latentlsystem.png" alt="Latent L-systems" style="width: 150px;">
+  <div style="flex: 0 0 300px; margin-right: 20px;">
+    <img src="/images/latentlsystem.png" alt="Latent L-systems" style="width: 300px; height: 300px; object-fit: cover;">
   </div>
   
   <!-- Text information container -->
