@@ -37,8 +37,27 @@ redirect_from:
 
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 0 0 200px; margin-right: 20px;">
-    <img src="/images/treedfusion.png" alt="treedfusion" style="width: 200px; height: auto;">
+  <div style="flex: 0 0 300px; margin-right: 20px;">
+    <img src="/images/rgb2point" alt="rgb2point" style="width: 300px; height: auto;">
+  </div>
+  <div>
+    <h3>RGB2Point: 3D Point Cloud Generation from Single RGB Images</h3>
+    <div>
+      IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2025 
+    </div>
+    <div>
+      <strong>Jae Joong Lee</strong>, Bedrich Benes
+    </div>
+    <a href="https://www.arxiv.org/abs/2407.14979">Paper</a>
+  </div>
+</div>
+
+---
+
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 0 0 300px; margin-right: 20px;">
+    <img src="/images/treedfusion.png" alt="treedfusion" style="width: 300px; height: auto;">
   </div>
   <div>
     <h3>[🔥Top Journal🔥] Tree-D Fusion: Simulation-Ready Tree Dataset from Single Images with Diffusion Priors</h3>
@@ -56,8 +75,8 @@ redirect_from:
 
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 0 0 200px; margin-right: 20px;">
-    <img src="/images/latentlsystem.png" alt="Latent L-systems" style="width: 200px; height: auto;">
+  <div style="flex: 0 0 300px; margin-right: 20px;">
+    <img src="/images/latentlsystem.png" alt="Latent L-systems" style="width: 300px; height: auto;">
   </div>
   <div>
     <h3>[🔥Top Journal🔥] Latent L-systems: Transformer-based Tree Generator</h3>
@@ -67,7 +86,10 @@ redirect_from:
     <div>
       <strong>Jae Joong Lee</strong>, Bosheng Li, Benes, Bedrich
     </div>
-    <a href="https://dl.acm.org/doi/10.1145/3627101">Paper</a>
+    <a href="https://dl.acm.org/doi/10.1145/3627101" 
+       style="display: inline-block; padding: 10px 20px; background-color: #007acc; color: #fff; text-decoration: none; border-radius: 4px;">
+      Paper
+    </a>
   </div>
 </div>
 
