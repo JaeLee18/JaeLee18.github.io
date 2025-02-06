@@ -38,7 +38,29 @@ redirect_from:
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 0 0 300px; margin-right: 20px;">
-    <img src="/images/rgb2point" alt="rgb2point" style="width: 300px; height: auto;">
+    <img src="/images/handsfreevr" alt="handsfreevr" style="width: 300px; height: auto;">
+  </div>
+  <div>
+    <h3>Hands Free VR: LLM-based voice command VR</h3>
+    <div>
+      International Conference on Human Computer Interaction Theory and Applications (HUCAPP), 2025
+    </div>
+    <div>
+      Jorge Askur Vazquez Fernandez*, <strong>Jae Joong Lee*</strong>, Santiago Andres Serrano Vacca, Alejandra Magana, Radim Pesa, Bedrich Benes and Voicu Popescu
+    </div>
+    <a href="https://arxiv.org/pdf/2402.15083" 
+     style="display: inline-block; padding: 10px 20px; background-color: #007acc; color: #fff; text-decoration: none; border-radius: 4px;">
+    Paper
+  </a>
+  </div>
+</div>
+
+---
+
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 0 0 300px; margin-right: 20px;">
+    <img src="/images/rgb2point.png" alt="rgb2point" style="width: 300px; height: auto;">
   </div>
   <div>
     <h3>RGB2Point: 3D Point Cloud Generation from Single RGB Images</h3>
@@ -48,7 +70,10 @@ redirect_from:
     <div>
       <strong>Jae Joong Lee</strong>, Bedrich Benes
     </div>
-    <a href="https://www.arxiv.org/abs/2407.14979">Paper</a>
+    <a href="https://www.arxiv.org/abs/2407.14979" 
+     style="display: inline-block; padding: 10px 20px; background-color: #007acc; color: #fff; text-decoration: none; border-radius: 4px;">
+    Paper
+  </a>
   </div>
 </div>
 
@@ -67,7 +92,10 @@ redirect_from:
     <div>
       <strong>Jae Joong Lee</strong>, Bosheng Li, Sara Beery, Jonathan Huang, Songlin Fei, Raymond A. Yeh, Bedrich Benes
     </div>
-    <a href="https://www.arxiv.org/abs/2407.10330">Paper</a>
+    <a href="https://www.arxiv.org/abs/2407.10330" 
+       style="display: inline-block; padding: 10px 20px; background-color: #007acc; color: #fff; text-decoration: none; border-radius: 4px;">
+      Paper
+    </a>
   </div>
 </div>
 
