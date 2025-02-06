@@ -49,6 +49,8 @@ redirect_from:
   </div>
 </div>
 
+---
+
 ## Industrial Research Projects
 
 | Title  | Affiliation|
