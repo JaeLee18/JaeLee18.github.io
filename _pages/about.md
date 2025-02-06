@@ -35,42 +35,49 @@ redirect_from:
 
 ---
 
-## ![Hands Free VR](images/handsfreevr.png)  
-**Hands Free VR: LLM-based voice command VR**  
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <!-- Thumbnail image container -->
+  <div style="flex: 0 0 200px; margin-right: 20px;">
+    <img src="/images/handsfreevr.png" alt="rgb2point.png" style="width: 200px; height: auto;">
+  </div>
+  <!-- Text information container -->
+  <div>
+    <h3>Hands Free VR: LLM-based voice command VR</h3>
+    Authors: Jorge Askur Vazquez Fernandez*, <strong>Jae Joong Lee*</strong>, Santiago Andres Serrano Vacca, Alejandra Magana, Radim Pesa, Bedrich Benes and Voicu Popescu<p>
+    Venue: International Conference on Human Computer Interaction Theory and Applications 2025, <a href="https://arxiv.org/pdf/2402.15083">Paper</a><p>
+  </div>
+</div>
 
-*Authors*: Jorge Askur Vazquez Fernandez\*, **Jae Joong Lee\***, Santiago Andres Serrano Vacca, Alejandra Magana, Radim Pesa, Bedrich Benes and Voicu Popescu
- 
-*Venue*: VISGRAPP@HUCAPP 2025, [Paper](https://arxiv.org/pdf/2402.15083)  
-*Year*: 2024  
 
----
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <!-- Thumbnail image container -->
+  <div style="flex: 0 0 200px; margin-right: 20px;">
+    <img src="/images/rgb2point.png" alt="rgb2point.png" style="width: 200px; height: auto;">
+  </div>
+  <!-- Text information container -->
+  <div>
+    <h3>RGB2POINT: 3D Point Cloud Generation from Single RGB Images</h3>
+    Authors: <strong>Jae Joong Lee</strong>, Bedrich Benes<p>
+    Venue: IEEE/CVF Winter Conference on Applications of Computer Vision 2025, <a href="https://www.arxiv.org/abs/2407.14979">Paper</a><p>
+  </div>
+</div>
 
-## ![RGB2Point](images/rgb2point.png)  
-**RGB2POINT: 3D Point Cloud Generation from Single RGB Images**  
 
-*Authors*: **Jae Joong Lee**, Benes, Bedrich  
-*Venue*: IEEE/CVF Winter Conference on Applications of Computer Vision 2025, [Paper](https://www.arxiv.org/abs/2407.14979)  
-*Year*: 2024  
 
----
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <!-- Thumbnail image container -->
+  <div style="flex: 0 0 200px; margin-right: 20px;">
+    <img src="/images/treedfusion.png" alt="treedfusion" style="width: 200px; height: auto;">
+  </div>
+  <!-- Text information container -->
+  <div>
+    <h3>[🔥Top Journal🔥] Tree-D Fusion: Simulation-Ready Tree Dataset from Single Images with Diffusion Priors</h3>
+    Authors: <strong>Jae Joong Lee</strong>, Bosheng Li, Sara Beery, Jonathan Huang, Songlin Fei, Raymond A. Yeh, Bedrich Benes<p>
+    Venue: European Conference on Computer Vision 2024, <a href="https://www.arxiv.org/abs/2407.10330">Paper</a><p>
+  </div>
+</div>
 
-## ![Tree-D Fusion](images/treedfusion.png)  
-[🔥Top Conference🔥] **Tree-D Fusion: Simulation-Ready Tree Dataset from Single Images with Diffusion Priors**  
 
-*Authors*: **Jae Joong Lee**, Bosheng Li, Sara Beery, Jonathan Huang, Songlin Fei, Raymond A. Yeh, Bedrich Benes  
-*Venue*: European Conference on Computer Vision 2024, [Paper](https://www.arxiv.org/abs/2407.10330)  
-*Year*: 2024  
-
----
-
-## ![Latent L-systems](images/latentlsystem.png)  
-[🔥Top Journal🔥] **Latent L-systems: Transformer-based Tree Generator**  
-
-*Authors*: **Jae Joong Lee**, Bosheng Li, Benes, Bedrich  
-*Venue*: ACM Transactions on Graphics, [Paper](https://dl.acm.org/doi/10.1145/3627101), presented at SIGGRAPH2024  
-*Year*: 2024  
-
----
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <!-- Thumbnail image container -->
@@ -80,9 +87,8 @@ redirect_from:
   <!-- Text information container -->
   <div>
     <h3>[🔥Top Journal🔥] Latent L-systems: Transformer-based Tree Generator</h3>
-    <p>Authors: <strong>Jae Joong Lee</strong>, Bosheng Li, Benes, Bedrich </p>
-    <p>Venue: ACM Transactions on Graphics, presented at SIGGRAPH202, <a href="https://dl.acm.org/doi/10.1145/3627101">Paper</a></p>
-    <p>Year: 2024</p>
+    Authors: <strong>Jae Joong Lee</strong>, Bosheng Li, Benes, Bedrich<p>
+    Venue: ACM Transactions on Graphics, presented at SIGGRAPH2024, <a href="https://dl.acm.org/doi/10.1145/3627101">Paper</a><p>
   </div>
 </div>
 
@@ -101,5 +107,5 @@ redirect_from:
 
 
 ## Services
-- IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
-- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 
+- Reviewer, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
+- Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 
