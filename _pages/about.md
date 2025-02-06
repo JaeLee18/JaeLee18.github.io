@@ -72,17 +72,17 @@ redirect_from:
 
 ---
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <!-- Thumbnail image container -->
-<div style="flex: 0 0 300px; margin-right: 20px;">
-  <img src="/images/latentlsystem.png" alt="Latent L-systems" style="width: 300px; height: auto;">
-</div>
+  <div style="flex: 0 0 300px; margin-right: 20px;">
+    <img src="/images/latentlsystem.png" alt="Latent L-systems" style="width: 300px; height: auto;">
+  </div>
   <!-- Text information container -->
   <div>
-    <h3>[🔥Top Journal🔥] <strong>Latent L-systems: Transformer-based Tree Generator</strong></h3>
-    <strong>Authors</strong>: Jae Joong Lee, Bosheng Li, Benes, Bedrich
-    <strong>Venue</strong>: ACM Transactions on Graphics, presented at SIGGRAPH202, <a href="https://dl.acm.org/doi/10.1145/3627101">Paper</a>
-    <p><strong>Year</strong>: 2024</p>
+    <h3>[🔥Top Journal🔥] Latent L-systems: Transformer-based Tree Generator</h3>
+    Authors: <strong>Jae Joong Lee</strong>, Bosheng Li, Benes, Bedrich  
+    Venue: ACM Transactions on Graphics, presented at SIGGRAPH202, <a href="https://dl.acm.org/doi/10.1145/3627101">Paper</a>
+    Year: 2024
   </div>
 </div>
 
