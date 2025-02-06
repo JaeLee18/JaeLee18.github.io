@@ -41,10 +41,11 @@ redirect_from:
     <img src="/images/latentlsystem.png" alt="Latent L-systems" style="width: 200px; height: auto;">
   </div>
   <div>
-    <h3>[🔥Top Journal🔥] Latent L-systems: Transformer-based Tree Generator</h3>
-    Authors: <strong>Jae Joong Lee</strong>, Bosheng Li, Benes, Bedrich<p>
-    Venue: ACM Transactions on Graphics, presented at SIGGRAPH2024, <a href="https://dl.acm.org/doi/10.1145/3627101">Paper</a><p>
-  </div></div>
+    <h3>[🔥Top Journal🔥] Latent L-systems: Transformer-based Tree Generator</h3></br>
+    Authors: <strong>Jae Joong Lee</strong>, Bosheng Li, Benes, Bedrich</br>
+    Venue: ACM Transactions on Graphics, presented at SIGGRAPH2024, <a href="https://dl.acm.org/doi/10.1145/3627101">Paper</a>
+  </div>
+</div>
 
 ---
 
