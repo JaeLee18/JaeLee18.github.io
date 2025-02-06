@@ -73,7 +73,11 @@ redirect_from:
     <a href="https://www.arxiv.org/abs/2407.14979" 
      style="display: inline-block; padding: 10px 20px; background-color: #007acc; color: #fff; text-decoration: none; border-radius: 4px;">
     Paper
-  </a>
+   </a>
+   <a href="https://github.com/JaeLee18/RGB2point" 
+       style="display: inline-block; padding: 10px 20px; background-color: #007acc; color: #fff; text-decoration: none; border-radius: 4px;">
+      Code
+    </a>
   </div>
 </div>
 
@@ -96,6 +100,14 @@ redirect_from:
        style="display: inline-block; padding: 10px 20px; background-color: #007acc; color: #fff; text-decoration: none; border-radius: 4px;">
       Paper
     </a>
+    <a href="https://www.youtube.com/watch?v=SQzMkt3bt0E" 
+       style="display: inline-block; padding: 10px 20px; background-color: #007acc; color: #fff; text-decoration: none; border-radius: 4px;">
+      Video
+    </a>
+    <a href="https://github.com/JaeLee18/TreeDFusion_ECCV24" 
+       style="display: inline-block; padding: 10px 20px; background-color: #007acc; color: #fff; text-decoration: none; border-radius: 4px;">
+      Code
+    </a>
   </div>
 </div>
 
@@ -117,6 +129,14 @@ redirect_from:
     <a href="https://dl.acm.org/doi/10.1145/3627101" 
        style="display: inline-block; padding: 10px 20px; background-color: #007acc; color: #fff; text-decoration: none; border-radius: 4px;">
       Paper
+    </a>
+    <a href="https://www.youtube.com/watch?v=1SPSQ-IwcvQ" 
+       style="display: inline-block; padding: 10px 20px; background-color: #007acc; color: #fff; text-decoration: none; border-radius: 4px;">
+      Video
+    </a>
+    <a href="https://github.com/JaeLee18/ACM-TOG-Latent-L-systems-Transformer-based-Tree-Generator" 
+       style="display: inline-block; padding: 10px 20px; background-color: #007acc; color: #fff; text-decoration: none; border-radius: 4px;">
+      Code
     </a>
   </div>
 </div>
