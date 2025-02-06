@@ -35,7 +35,7 @@ redirect_from:
 
 ---
 
-
+<div>
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <!-- Thumbnail image container -->
   <div style="flex: 0 0 200px; margin-right: 20px;">
@@ -47,6 +47,7 @@ redirect_from:
     Authors: <strong>Jae Joong Lee</strong>, Bosheng Li, Benes, Bedrich<p>
     Venue: ACM Transactions on Graphics, presented at SIGGRAPH2024, <a href="https://dl.acm.org/doi/10.1145/3627101">Paper</a><p>
   </div>
+</div>
 </div>
 
 ---
