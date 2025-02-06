@@ -37,8 +37,8 @@ redirect_from:
 
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 0 0 300px; margin-right: 20px;">
-    <img src="/images/handsfreevr.png" alt="handsfreevr" style="width: 300px; height: auto;">
+  <div style="flex: 0 0 400px; margin-right: 20px;">
+    <img src="/images/handsfreevr.png" alt="handsfreevr" style="width: 400px; height: auto;">
   </div>
   <div>
     <h3>Hands Free VR: LLM-based voice command VR</h3>
@@ -59,8 +59,8 @@ redirect_from:
 
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 0 0 300px; margin-right: 20px;">
-    <img src="/images/rgb2point.png" alt="rgb2point" style="width: 300px; height: auto;">
+  <div style="flex: 0 0 400px; margin-right: 20px;">
+    <img src="/images/rgb2point.png" alt="rgb2point" style="width: 400px; height: auto;">
   </div>
   <div>
     <h3>RGB2Point: 3D Point Cloud Generation from Single RGB Images</h3>
@@ -78,6 +78,10 @@ redirect_from:
        style="display: inline-block; padding: 10px 20px; background-color: #007acc; color: #fff; text-decoration: none; border-radius: 4px;">
       Code
     </a>
+    <a href="https://www.jaejoonglee.com/wacv25_rgb2point/" 
+       style="display: inline-block; padding: 10px 20px; background-color: #007acc; color: #fff; text-decoration: none; border-radius: 4px;">
+      Project
+    </a>
   </div>
 </div>
 
@@ -85,8 +89,8 @@ redirect_from:
 
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 0 0 300px; margin-right: 20px;">
-    <img src="/images/treedfusion.png" alt="treedfusion" style="width: 300px; height: auto;">
+  <div style="flex: 0 0 400px; margin-right: 20px;">
+    <img src="/images/treedfusion.png" alt="treedfusion" style="width: 400px; height: auto;">
   </div>
   <div>
     <h3>[🔥Top Journal🔥] Tree-D Fusion: Simulation-Ready Tree Dataset from Single Images with Diffusion Priors</h3>
@@ -108,6 +112,10 @@ redirect_from:
        style="display: inline-block; padding: 10px 20px; background-color: #007acc; color: #fff; text-decoration: none; border-radius: 4px;">
       Code
     </a>
+    <a href="https://www.jaejoonglee.com/treedfusion/" 
+       style="display: inline-block; padding: 10px 20px; background-color: #007acc; color: #fff; text-decoration: none; border-radius: 4px;">
+      Project
+    </a>
   </div>
 </div>
 
@@ -115,8 +123,8 @@ redirect_from:
 
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 0 0 300px; margin-right: 20px;">
-    <img src="/images/latentlsystem.png" alt="Latent L-systems" style="width: 300px; height: auto;">
+  <div style="flex: 0 0 400px; margin-right: 20px;">
+    <img src="/images/latentlsystem.png" alt="Latent L-systems" style="width: 400px; height: auto;">
   </div>
   <div>
     <h3>[🔥Top Journal🔥] Latent L-systems: Transformer-based Tree Generator</h3>
