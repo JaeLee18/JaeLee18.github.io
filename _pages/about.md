@@ -72,6 +72,24 @@ redirect_from:
 
 ---
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <!-- Thumbnail image container -->
+  <div style="flex: 0 0 150px; margin-right: 20px;">
+    <img src="/images/latentlsystem.png" alt="Latent L-systems" style="width: 150px;">
+  </div>
+  
+  <!-- Text information container -->
+  <div>
+    <h2>[🔥Top Journal🔥] <strong>Latent L-systems: Transformer-based Tree Generator</strong></h2>
+    <p><strong>Authors</strong>: Jae Joong Lee, Bosheng Li, Benes, Bedrich</p>
+    <p>
+      <strong>Venue</strong>: ACM Transactions on Graphics, 
+      <a href="https://dl.acm.org/doi/10.1145/3627101">Paper</a>, presented at SIGGRAPH2024
+    </p>
+    <p><strong>Year</strong>: 2024</p>
+  </div>
+</div>
+
 ## Industrial Research Projects
 
 | Title  | Affiliation|
