@@ -16,9 +16,9 @@ redirect_from:
 
 ---
 
-## Updates (Feb.05.25)
+## Updates (Mar.03.25)
 
-10 | My recent work, Tree-D fusion is covered by [MIT News](https://news.mit.edu/2024/advancing-urban-tree-monitoring-ai-powered-digital-twins-1121)
+10 | My recent work, Tree-D fusion is covered by [MIT News](https://news.mit.edu/2024/advancing-urban-tree-monitoring-ai-powered-digital-twins-1121) and [Purdue News](https://ag.purdue.edu/news/2025/03/3d-tree-reconstruction-algorithm-contributes-to-a-new-era-of-urban-planning.html?feature)
 9 | 📜 Another paper, Single Image to 3D Point Cloud, is accepted to WACV 2025. [Project Website](https://www.jaejoonglee.com/wacv25_rgb2point/)
 8 | 📜 My paper, Tree-D Fusion, is accepted to ECCV 2024. See you in Milan, Italy🇮🇹. [Project Website](https://www.jaejoonglee.com/treedfusion/)
 7 | 🎉 Received Merit Recognition Award from Purdue University.
@@ -166,5 +166,6 @@ redirect_from:
 
 
 ## Services
+- Reviewer, SIGGRAPH
 - Reviewer, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
 - Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 
