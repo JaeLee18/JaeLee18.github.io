@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- Jae Joong Lee is a Ph.D. student in the Department of Computer Science at Purdue University advised by [Professor Benes, Bedrich](https://www.cs.purdue.edu/homes/bbenes/) and a [member](https://www.cs.purdue.edu/homes/bbenes/students/) of [Computer Graphics and Visualization Laboratory], where he leverages deep learning and computer vision—with an emphasis on 3D graphics and generative AI—to create digital twins.
+- Jae Joong Lee is a Ph.D. student in the Department of Computer Science at Purdue University advised by [Professor Benes, Bedrich](https://www.cs.purdue.edu/homes/bbenes/) and a [member](https://www.cs.purdue.edu/homes/bbenes/students/) of Computer Graphics and Visualization Laboratory, where he leverages deep learning and computer vision—with an emphasis on 3D graphics and generative AI—to create digital twins.
   <br/>
 - Jae Joong Lee received a Bachelor's Degree in Computer Science at [Purdue University](https://www.purdue.edu/).
 
