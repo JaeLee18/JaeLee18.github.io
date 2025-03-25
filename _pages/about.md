@@ -34,6 +34,27 @@ redirect_from:
 
 ---
 
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 0 0 350px; margin-right: 20px;">
+    <img src="/images/tuningfreeamodal.png" alt="tuningfreeamodal" style="width: 350px; height: auto;">
+  </div>
+  <div>
+    <h3>Tuning-Free Amodal Segmentation via the Occlusion-Free Bias of Inpainting Models</h3>
+    <div>
+      <strong>Jae Joong Lee</strong>, Bedrich Benes and Raymond A. Yeh
+    </div>
+    <div>
+      arxiv, 2025
+    </div>
+    <a href="https://arxiv.org/pdf/2503.18947" 
+     style="display: inline-block; padding: 8px 18px; background-color: #007acc; color: #fff; text-decoration: none; border-radius: 4px;">
+    Paper
+  </a>
+  </div>
+</div>
+
+---
+
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 0 0 350px; margin-right: 20px;">
