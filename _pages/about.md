@@ -14,7 +14,7 @@ redirect_from:
 
 ---
 
-## Updates (Mar.24.25)
+## Updates (Apr.15.25)
 
 12 | 🏆 I was honored to receive the John R. Rice Partial Fellowship in Scientific Computing from the Department of Computer Science at Purdue University.
 11 | My work, Tree-D fusion, is used in the [19th International Architecture Exhibition Biennale Venice, Re-Leaf Project](https://www.labiennale.org/en/architecture/2025/progetti-e-partecipanti) in collaboration with [MIT Senseable City Lab](https://senseable.mit.edu/).
