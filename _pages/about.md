@@ -14,8 +14,9 @@ redirect_from:
 
 ---
 
-## Updates (Apr.15.25)
+## Updates (May.14.25)
 
+13 | 🎉 I will join Zillow Group as an AI Applied Scientist Intern specializing in Computer Vision.
 12 | 🏆 I was honored to receive the John R. Rice Partial Fellowship in Scientific Computing from the Department of Computer Science at Purdue University.
 11 | 🤝 My work, Tree-D fusion, is used in the [19th International Architecture Exhibition Biennale Venice, Re-Leaf Project](https://www.labiennale.org/en/architecture/2025/progetti-e-partecipanti) in collaboration with [MIT Senseable City Lab](https://senseable.mit.edu/).
 10 | 📰 My recent work, Tree-D fusion, is covered by [MIT News](https://news.mit.edu/2024/advancing-urban-tree-monitoring-ai-powered-digital-twins-1121) and [Purdue News](https://ag.purdue.edu/news/2025/03/3d-tree-reconstruction-algorithm-contributes-to-a-new-era-of-urban-planning.html?feature)
