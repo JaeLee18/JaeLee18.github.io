@@ -173,21 +173,8 @@ redirect_from:
 
 ---
 
-## Industrial Research Projects
-
-| Title  | Affiliation|
-| ------------- | ------------- |
-| Role Recommendation based on HR information using LLM | LG Electronics|
-| Prevent duplication of image evidence using AI | LG Electronics|
-| Object tracking and material detection | SeAH Steel Holdings |
-| Out of Distribution, Un-seen Data Detection using Classification Method  | Samsung Electronics  |
-| Confidential Document Classification | Korea Testing Laboratory |
-| Inventory Process Optimization using Tree-based Machine Learning | LG Electronics |
-| Conformer based Custom Voice Recognition(Speech-to-Text)   | LG Electronics |
-| Unstructured data extraction with custom OCR and Transformer(AI) based Document Classification | LG Electronics |
-
-
 ## Services
 - Reviewer, SIGGRAPH
 - Reviewer, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
-- Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 
+- Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+- Reviewer, International Conference on Computer Vision (ICCV) 
