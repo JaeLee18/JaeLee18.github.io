@@ -115,7 +115,7 @@ redirect_from:
     <img src="/images/treedfusion.png" alt="treedfusion" style="width: 350px; height: auto;">
   </div>
   <div>
-    <h3>[🔥Top Journal🔥] Tree-D Fusion: Simulation-Ready Tree Dataset from Single Images with Diffusion Priors</h3>
+    <h3>[🔥Top Conference🔥] Tree-D Fusion: Simulation-Ready Tree Dataset from Single Images with Diffusion Priors</h3>
     <div>
       <strong>Jae Joong Lee</strong>, Bosheng Li, Sara Beery, Jonathan Huang, Songlin Fei, Raymond A. Yeh, Bedrich Benes
     </div>
