@@ -14,8 +14,9 @@ redirect_from:
 
 ---
 
-## Updates (May.14.25)
+## Updates (July.14.25)
 
+14 | 🎉 I was awarded a GPU funding from the National Artificial Intelligence Research Resource Pilot as a PI.
 13 | 🎉 I will join Zillow Group as an AI Applied Scientist Intern specializing in Computer Vision.
 12 | 🏆 I was honored to receive the John R. Rice Partial Fellowship in Scientific Computing from the Department of Computer Science at Purdue University.
 11 | 🤝 My work, Tree-D fusion, is used in the [19th International Architecture Exhibition Biennale Venice, Re-Leaf Project](https://www.labiennale.org/en/architecture/2025/progetti-e-partecipanti) in collaboration with [MIT Senseable City Lab](https://senseable.mit.edu/).
