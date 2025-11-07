@@ -14,8 +14,9 @@ redirect_from:
 
 ---
 
-## Updates (July.14.25)
+## Updates (November.7.25)
 
+16 | 📜 My paper, Tuning-Free Amodal Segmentation via the Occlusion-Free Bias of Inpainting Models, is accepted to AAAI 2026. (Acceptance Rate: 17.6%) [Paper](https://arxiv.org/pdf/2503.18947)
 14 | 🎉 I was awarded a GPU funding from the National Artificial Intelligence Research Resource Pilot as a PI.
 13 | 🎉 I will join Zillow Group as an AI Applied Scientist Intern specializing in Computer Vision.
 12 | 🏆 I was honored to receive the John R. Rice Partial Fellowship in Scientific Computing from the Department of Computer Science at Purdue University.
@@ -42,12 +43,12 @@ redirect_from:
     <img src="/images/tuningfreeamodal.png" alt="tuningfreeamodal" style="width: 350px; height: auto;">
   </div>
   <div>
-    <h3>Tuning-Free Amodal Segmentation via the Occlusion-Free Bias of Inpainting Models</h3>
+    <h3>[🔥Top Conference🔥] Tuning-Free Amodal Segmentation via the Occlusion-Free Bias of Inpainting Models</h3>
     <div>
       <strong>Jae Joong Lee</strong>, Bedrich Benes and Raymond A. Yeh
     </div>
     <div>
-      arxiv, 2025
+      Association for the Advancement of Artificial Intelligence (AAAI), 2026
     </div>
     <a href="https://arxiv.org/pdf/2503.18947" 
      style="display: inline-block; padding: 8px 18px; background-color: #007acc; color: #fff; text-decoration: none; border-radius: 4px;">
