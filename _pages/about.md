@@ -70,7 +70,7 @@ redirect_from:
       Jorge Askur Vazquez Fernandez*, <strong>Jae Joong Lee*</strong>, Santiago Andres Serrano Vacca, Alejandra Magana, Radim Pesa, Bedrich Benes and Voicu Popescu
     </div>
     <div>
-      International Conference on Human Computer Interaction Theory and Applications (HUCAPP), 2025
+      VISIGRAPP, 2025
     </div>
     <a href="https://arxiv.org/pdf/2402.15083" 
      style="display: inline-block; padding: 8px 18px; background-color: #007acc; color: #fff; text-decoration: none; border-radius: 4px;">
