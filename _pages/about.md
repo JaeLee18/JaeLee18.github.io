@@ -14,7 +14,7 @@ redirect_from:
 
 ---
 
-## Updates (November.7.25)
+## Updates (November.13.25)
 
 16 | 📜 My paper, Tuning-Free Amodal Segmentation via the Occlusion-Free Bias of Inpainting Models, is accepted to AAAI 2026. (Acceptance Rate: 17.6%) [Paper](https://arxiv.org/pdf/2503.18947)
 14 | 🎉 I was awarded a GPU funding from the National Artificial Intelligence Research Resource Pilot as a PI.
@@ -35,6 +35,29 @@ redirect_from:
 ---
 
 # Publications
+
+
+---
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 0 0 350px; margin-right: 20px;">
+    <img src="/images/top2ground.jpg" alt="top2ground teaser" style="width: 350px; height: auto;">
+  </div>
+  <div>
+    <h3>Top2Ground: A Height-Aware Dual Conditioning Diffusion Model for Robust Aerial-to-Ground View Generation</h3>
+    <div>
+      <strong>Jae Joong Lee</strong>, and Bedrich Benes
+    </div>
+    <div>
+      arxiv
+    </div>
+    <a href="https://arxiv.org/pdf/2511.08258" 
+     style="display: inline-block; padding: 8px 18px; background-color: #007acc; color: #fff; text-decoration: none; border-radius: 4px;">
+    Paper
+  </a>
+  </div>
+</div>
+
 
 ---
 
@@ -156,7 +179,7 @@ redirect_from:
       <strong>Jae Joong Lee</strong>, Bosheng Li, Benes, Bedrich
     </div>
     <div>
-      ACM Transactions on Graphics (ACM ToG), 2024  
+      ACM Transactions on Graphics (ACM ToG), 2024  (SIGGRAPH Oral)
     </div>
     <a href="https://dl.acm.org/doi/10.1145/3627101" 
        style="display: inline-block; padding: 10px 20px; background-color: #007acc; color: #fff; text-decoration: none; border-radius: 4px;">
@@ -180,3 +203,5 @@ redirect_from:
 - Reviewer, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)
 - Reviewer, IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 - Reviewer, International Conference on Computer Vision (ICCV) 
+- Reviewer, IEEE Transactions on Visualization and Computer Graphics (TVCG)
+- Reviewer, AAAI Conference on Artificial Intelligence (AAAI)
