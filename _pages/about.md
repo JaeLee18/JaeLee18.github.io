@@ -41,7 +41,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 0 0 350px; margin-right: 20px;">
-    <img src="/images/top2ground.jpg" alt="top2ground teaser" style="width: 350px; height: auto;">
+    <img src="/images/top2ground.png" alt="top2ground teaser" style="width: 350px; height: auto;">
   </div>
   <div>
     <h3>Top2Ground: A Height-Aware Dual Conditioning Diffusion Model for Robust Aerial-to-Ground View Generation</h3>
