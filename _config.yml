@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Lee, Jae Joong"
 title_separator          : "-"
 name                     : &name "Lee, Jae Joong"
-description              : &description "Ph.D student in the Computer Science department at Purdue University"
+description              : &description "Ph.D candidate in the Computer Science department at Purdue University."
 url                      : https://www.jaejoonglee.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JaeLee18/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lee, Jae Joong"
   avatar           : "profile.jpg"
-  bio              : "Ph.D student in the Computer Science department at Purdue University"
+  bio              : "Ph.D candidate in the Computer Science department at Purdue University"
   location         : "West Lafayette, Indiana"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
