@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- Jae Joong Lee is a Ph.D. candidate in the Department of Computer Science at Purdue University advised by [Professor Benes, Bedrich](https://www.cs.purdue.edu/homes/bbenes/) and a [member](https://www.cs.purdue.edu/homes/bbenes/students/) of Computer Graphics and Visualization Laboratory, where he leverages deep learning and computer vision—with an emphasis on 3D graphics and generative AI—to create digital twins.
+- Jae Joong Lee is a Ph.D. candidate in the Department of Computer Science at Purdue University, advised by [Professor Benes, Bedrich](https://www.cs.purdue.edu/homes/bbenes/) and a [member](https://www.cs.purdue.edu/homes/bbenes/students/) of the Computer Graphics and Visualization Laboratory, where he leverages deep learning and computer vision—with an emphasis on 3D graphics and generative AI—to create digital twins.
   <br/>
 - Jae Joong Lee received a Bachelor's Degree in Computer Science at [Purdue University](https://www.purdue.edu/).
 
@@ -17,7 +17,7 @@ redirect_from:
 ## Updates (November.13.25)
 
 16 | 📜 My paper, Tuning-Free Amodal Segmentation via the Occlusion-Free Bias of Inpainting Models, is accepted to AAAI 2026. (Acceptance Rate: 17.6%) [Paper](https://arxiv.org/pdf/2503.18947)
-14 | 🎉 I was awarded a GPU funding from the National Artificial Intelligence Research Resource Pilot as a PI.
+14 | 🎉 I was awarded GPU funding from the National Artificial Intelligence Research Resource Pilot as a PI.
 13 | 🎉 I will join Zillow Group as an AI Applied Scientist Intern specializing in Computer Vision.
 12 | 🏆 I was honored to receive the John R. Rice Partial Fellowship in Scientific Computing from the Department of Computer Science at Purdue University.
 11 | 🤝 My work, Tree-D fusion, is used in the [19th International Architecture Exhibition Biennale Venice, Re-Leaf Project](https://www.labiennale.org/en/architecture/2025/progetti-e-partecipanti) in collaboration with [MIT Senseable City Lab](https://senseable.mit.edu/).
