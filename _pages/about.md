@@ -41,12 +41,12 @@ redirect_from:
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 0 0 350px; margin-right: 20px;">
-    <img src="/images/lgip" alt="lgip teaser" style="width: 350px; height: auto;">
+    <img src="/images/lgip.png" alt="lgip teaser" style="width: 350px; height: auto;">
   </div>
   <div>
     <h3>Language-Guided Invariance Probing of Vision Language Models</h3>
     <div>
-      <strong>Jae Joong Lee</strong>, and Bedrich Benes
+      <strong>Jae Joong Lee</strong>
     </div>
     <div>
       Pattern Recognition Letters, April 2026
