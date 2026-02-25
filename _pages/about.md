@@ -14,8 +14,9 @@ redirect_from:
 
 ---
 
-## Updates (November.13.25)
+## Updates (Feb.24.26)
 
+17 | 🎉 Tree-D fusion is featured in the Re-Leaf exhibition at Rome’s [Palazzo delle Esposizioni](https://www.palazzoesposizioniroma.it/mostra/re-leaf-vedere-la-citta-attraverso-i-suoi-alberi) in collaboration with the MIT Senseable City Lab.
 16 | 📜 My paper, Tuning-Free Amodal Segmentation via the Occlusion-Free Bias of Inpainting Models, is accepted to AAAI 2026. (Acceptance Rate: 17.6%) [Paper](https://arxiv.org/pdf/2503.18947)
 14 | 🎉 I was awarded GPU funding from the National Artificial Intelligence Research Resource Pilot as a PI.
 13 | 🎉 I will join Zillow Group as an AI Applied Scientist Intern specializing in Computer Vision.
@@ -58,6 +59,26 @@ redirect_from:
   </div>
 </div>
 
+---
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 0 0 350px; margin-right: 20px;">
+    <img src="/images/access.jpg" alt="accessibility teaser" style="width: 350px; height: auto;">
+  </div>
+  <div>
+    <h3>WebAccessVL: Making an Accessible Web via Violation-Conditioned VLM</h3>
+    <div>
+      Amber Yijia Zheng*, <strong>Jae Joong Lee*</strong>, Bedrich Benes, Raymond A. Yeh
+    </div>
+    <div>
+      arxiv
+    </div>
+    <a href="https://arxiv.org/abs/2602.03850" 
+     style="display: inline-block; padding: 8px 18px; background-color: #007acc; color: #fff; text-decoration: none; border-radius: 4px;">
+    Paper
+  </a>
+  </div>
+</div>
 
 ---
 
