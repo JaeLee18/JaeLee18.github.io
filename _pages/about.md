@@ -37,6 +37,27 @@ redirect_from:
 
 # Publications
 
+---
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 0 0 350px; margin-right: 20px;">
+    <img src="/images/lgip" alt="lgip teaser" style="width: 350px; height: auto;">
+  </div>
+  <div>
+    <h3>Language-Guided Invariance Probing of Vision Language Models</h3>
+    <div>
+      <strong>Jae Joong Lee</strong>, and Bedrich Benes
+    </div>
+    <div>
+      Pattern Recognition Letters, April 2026
+    </div>
+    <a href="https://arxiv.org/pdf/2511.08258" 
+     style="display: inline-block; padding: 8px 18px; background-color: #007acc; color: #fff; text-decoration: none; border-radius: 4px;">
+    Paper
+  </a>
+  </div>
+</div>
+
 
 ---
 
