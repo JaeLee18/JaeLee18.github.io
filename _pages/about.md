@@ -51,7 +51,7 @@ redirect_from:
     <div>
       Pattern Recognition Letters, April 2026
     </div>
-    <a href="https://arxiv.org/pdf/2511.08258" 
+    <a href="https://arxiv.org/pdf/2511.13494" 
      style="display: inline-block; padding: 8px 18px; background-color: #007acc; color: #fff; text-decoration: none; border-radius: 4px;">
     Paper
   </a>
