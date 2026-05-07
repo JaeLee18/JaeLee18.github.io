@@ -34,6 +34,7 @@ redirect_from:
 2 | Started the first Ph.D. program semester in CS at Purdue University.
 1 | 🎓 Recieved Bachelor of Science in Computer Sciecne(CS) at Purdue University.
 
+
 ---
 
 # Publications
@@ -238,6 +239,13 @@ redirect_from:
     </a>
   </div>
 </div>
+
+---
+
+# Publications
+
+- Google Research Grant, co-PI, 2026
+- NSF NAIRR Grant, PI, 2025
 
 ---
 
