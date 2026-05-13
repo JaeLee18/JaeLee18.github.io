@@ -244,7 +244,7 @@ redirect_from:
 
 # Fundings
 
-- Google Research Grant, co-PI, 2026
+- Google Research Grant, PI, 2026
 - NSF NAIRR Grant, PI, 2025
 
 ---
