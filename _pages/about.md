@@ -256,3 +256,4 @@ redirect_from:
 - Reviewer, International Conference on Computer Vision (ICCV) 
 - Reviewer, IEEE Transactions on Visualization and Computer Graphics (TVCG)
 - Reviewer, AAAI Conference on Artificial Intelligence (AAAI)
+- Sergeant, U.S. Eighth Army, Korean Augmentation to the United States Army
