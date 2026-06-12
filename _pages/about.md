@@ -14,7 +14,7 @@ redirect_from:
 
 ---
 
-## Updates (Apr.19.26)
+## Updates (June.12.26)
 
 19 | 📜 My paper on **plant point cloud completion from occluded scans** has been accepted to *Plant Phenomics*.
 18 | 🏆 My proposal was selected for the Google Research Computing Grant.
