@@ -294,7 +294,7 @@ redirect_from:
       applyFilter(tab.getAttribute('data-filter'));
     });
   });
-  applyFilter('selected'); // default view
+  applyFilter('selected');
 })();
 </script>
 
