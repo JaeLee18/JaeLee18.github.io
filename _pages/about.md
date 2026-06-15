@@ -53,7 +53,6 @@ redirect_from:
     <div>
       Plant Phenomics, 2026
     </div>
-  </a>
   </div>
 </div>
 
