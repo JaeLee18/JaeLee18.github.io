@@ -41,7 +41,24 @@ redirect_from:
 # Publications
 
 ---
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex: 0 0 350px; margin-right: 20px;">
+    <img src="/images/lgip.png" alt="lgip teaser" style="width: 350px; height: auto;">
+  </div>
+  <div>
+    <h3>A-Occ-Plant: Plant Occluded Point Cloud Completion via Amodal Segmentation</h3>
+    <div>
+      <strong>Jae Joong Lee</strong>, Benes Bedrich
+    </div>
+    <div>
+      Plant Phenomics, 2026
+    </div>
+  </a>
+  </div>
+</div>
 
+
+---
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 0 0 350px; margin-right: 20px;">
     <img src="/images/lgip.png" alt="lgip teaser" style="width: 350px; height: auto;">
