@@ -209,7 +209,7 @@ redirect_from:
 <h3>Language-Guided Invariance Probing of Vision Language Models</h3>
 <div class="pub-authors"><strong>Jae Joong Lee</strong></div>
 <div class="pub-venue">Pattern Recognition Letters, April 2026</div>
-<div class="pub-links"><a href="https://arxiv.org/pdf/2511.13494">Paper</a></div>
+<div class="pub-links"><a href="https://arxiv.org/pdf/2511.13494">Paper</a><a href="https://github.com/JaeLee18/Language-Guided-Invariance-Probing-of-Vision-Language-Models">Code</a></div>
 </div>
 </div>
 <div class="pub-card" data-topics="3d gen">
