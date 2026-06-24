@@ -200,6 +200,7 @@ redirect_from:
 <h3>A-Occ-Plant: Plant Occluded Point Cloud Completion via Amodal Segmentation</h3>
 <div class="pub-authors"><strong>Jae Joong Lee</strong>, Bedrich Benes</div>
 <div class="pub-venue">Plant Phenomics, 2026</div>
+<div class="pub-links"><a href="https://doi.org/10.1016/j.plaphe.2026.100240">Paper</a><a href="https://github.com/JaeLee18/PlantPhenomics_Occlusion">Code</a></div>
 </div>
 </div>
 <div class="pub-card" data-topics="vlm">
