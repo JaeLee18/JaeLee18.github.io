@@ -77,7 +77,7 @@ redirect_from:
 
 <div class="updates-box">
 <ul>
-<li>📜 My paper on <strong>plant point cloud completion from occluded scans</strong> has been accepted to <em>Plant Phenomics</em>.</li>
+<li>📜 My paper on <strong>plant point cloud completion from occluded scans</strong> has been accepted to <em>Plant Phenomics</em> (IF 8.2).</li>
 <li>🏆 My proposal was selected for the Google Research Computing Grant.</li>
 <li>🎉 Tree-D fusion is featured in the Re-Leaf exhibition at Rome’s <a href="https://www.palazzoesposizioniroma.it/mostra/re-leaf-vedere-la-citta-attraverso-i-suoi-alberi">Palazzo delle Esposizioni</a> in collaboration with the MIT Senseable City Lab.</li>
 <li>📜 My paper, Tuning-Free Amodal Segmentation via the Occlusion-Free Bias of Inpainting Models, is accepted to AAAI 2026. (Acceptance Rate: 17.6%) <a href="https://arxiv.org/pdf/2503.18947">Paper</a></li>
