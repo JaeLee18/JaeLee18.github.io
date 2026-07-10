@@ -45,7 +45,7 @@ redirect_from:
 <a href="#services">Services</a>
 </div>
 
-## Updates <span style="font-weight:400;font-size:0.7em;color:#888;">(last updated June 12, 2026)</span>
+## Updates <span style="font-weight:400;font-size:0.7em;color:#888;">(last updated July 10, 2026)</span>
 {: #updates}
 
 <style>
@@ -77,6 +77,7 @@ redirect_from:
 
 <div class="updates-box">
 <ul>
+<li>📜 My paper, <strong>Accuracy Without Grounding: Measuring the Visual Dependency Gap in Video LLM Benchmarks</strong>, is accepted to ACM Multimedia (ACM MM) 2026!</li>
 <li>📜 My paper on <strong>plant point cloud completion from occluded scans</strong> has been accepted to <em>Plant Phenomics</em> (IF 8.2).</li>
 <li>🏆 My proposal was selected for the Google Research Computing Grant.</li>
 <li>🎉 Tree-D fusion is featured in the Re-Leaf exhibition at Rome’s <a href="https://www.palazzoesposizioniroma.it/mostra/re-leaf-vedere-la-citta-attraverso-i-suoi-alberi">Palazzo delle Esposizioni</a> in collaboration with the MIT Senseable City Lab.</li>
@@ -194,6 +195,15 @@ redirect_from:
 </div>
 
 <div class="pubs">
+<div class="pub-card" data-topics="selected vlm">
+<div class="pub-thumb"><img src="/images/ACM_MM_VDG.png" alt="accuracy without grounding teaser"></div>
+<div class="pub-body">
+<h3>Accuracy Without Grounding: Measuring the Visual Dependency Gap in Video LLM Benchmarks</h3>
+<div class="pub-authors"><strong>Jae Joong Lee</strong></div>
+<div class="pub-venue">ACM International Conference on Multimedia (ACM MM), 2026</div>
+<div class="pub-links"></div>
+</div>
+</div>
 <div class="pub-card" data-topics="3d">
 <div class="pub-thumb"><img src="/images/a-occ-plant.png" alt="a-occ-plant teaser"></div>
 <div class="pub-body">
@@ -233,7 +243,7 @@ redirect_from:
 <div class="pub-card" data-topics="selected gen">
 <div class="pub-thumb"><img src="/images/tuningfreeamodal.png" alt="tuningfreeamodal"></div>
 <div class="pub-body">
-<h3>[🔥Top Conference🔥] Tuning-Free Amodal Segmentation via the Occlusion-Free Bias of Inpainting Models</h3>
+<h3>Tuning-Free Amodal Segmentation via the Occlusion-Free Bias of Inpainting Models</h3>
 <div class="pub-authors"><strong>Jae Joong Lee</strong>, Bedrich Benes and Raymond A. Yeh</div>
 <div class="pub-venue">Association for the Advancement of Artificial Intelligence (AAAI), 2026</div>
 <div class="pub-links"><a href="https://arxiv.org/pdf/2503.18947">Paper</a></div>
@@ -260,7 +270,7 @@ redirect_from:
 <div class="pub-card" data-topics="selected 3d gen">
 <div class="pub-thumb"><img src="/images/treedfusion.png" alt="treedfusion"></div>
 <div class="pub-body">
-<h3>[🔥Top Conference🔥] Tree-D Fusion: Simulation-Ready Tree Dataset from Single Images with Diffusion Priors</h3>
+<h3>Tree-D Fusion: Simulation-Ready Tree Dataset from Single Images with Diffusion Priors</h3>
 <div class="pub-authors"><strong>Jae Joong Lee</strong>, Bosheng Li, Sara Beery, Jonathan Huang, Songlin Fei, Raymond A. Yeh, Bedrich Benes</div>
 <div class="pub-venue">European Conference on Computer Vision (ECCV), 2024</div>
 <div class="pub-links"><a href="https://www.arxiv.org/abs/2407.10330">Paper</a><a href="https://www.youtube.com/watch?v=SQzMkt3bt0E">Video</a><a href="https://github.com/JaeLee18/TreeDFusion_ECCV24">Code</a><a href="https://www.jaejoonglee.com/treedfusion/">Project</a></div>
@@ -269,7 +279,7 @@ redirect_from:
 <div class="pub-card" data-topics="selected gen">
 <div class="pub-thumb"><img src="/images/latentlsystem.png" alt="Latent L-systems"></div>
 <div class="pub-body">
-<h3>[🔥Top Journal🔥] Latent L-systems: Transformer-based Tree Generator</h3>
+<h3>Latent L-systems: Transformer-based Tree Generator</h3>
 <div class="pub-authors"><strong>Jae Joong Lee</strong>, Bosheng Li, Bedrich Benes</div>
 <div class="pub-venue">ACM Transactions on Graphics (ACM ToG), 2024 (SIGGRAPH Oral)</div>
 <div class="pub-links"><a href="https://dl.acm.org/doi/10.1145/3627101">Paper</a><a href="https://www.youtube.com/watch?v=1SPSQ-IwcvQ">Video</a><a href="https://github.com/JaeLee18/ACM-TOG-Latent-L-systems-Transformer-based-Tree-Generator">Code</a></div>
@@ -281,6 +291,18 @@ redirect_from:
 (function () {
   var tabs = document.querySelectorAll('.pub-tabs .pub-tab');
   var cards = document.querySelectorAll('.pubs .pub-card');
+  function countFor(filter) {
+    if (filter === 'all') { return cards.length; }
+    var n = 0;
+    cards.forEach(function (card) {
+      var topics = (card.getAttribute('data-topics') || '').split(/\s+/);
+      if (topics.indexOf(filter) !== -1) { n++; }
+    });
+    return n;
+  }
+  tabs.forEach(function (tab) {
+    tab.textContent += ' (' + countFor(tab.getAttribute('data-filter')) + ')';
+  });
   function applyFilter(filter) {
     cards.forEach(function (card) {
       var topics = (card.getAttribute('data-topics') || '').split(/\s+/);
