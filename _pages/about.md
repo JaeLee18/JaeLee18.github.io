@@ -201,7 +201,7 @@ redirect_from:
 <h3>Accuracy Without Grounding: Measuring the Visual Dependency Gap in Video LLM Benchmarks</h3>
 <div class="pub-authors"><strong>Jae Joong Lee</strong></div>
 <div class="pub-venue">ACM International Conference on Multimedia (ACM MM), 2026</div>
-<div class="pub-links"></div>
+<div class="pub-links"><a href="https://www.jaejoonglee.com/acmmm-vdg/">Project Page</a></div>
 </div>
 </div>
 <div class="pub-card" data-topics="3d">
