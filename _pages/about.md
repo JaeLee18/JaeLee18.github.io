@@ -93,7 +93,7 @@ redirect_from:
 <li>📜 My paper, Tree-D Fusion, is accepted to ECCV 2024. See you in Milan, Italy🇮🇹. <a href="https://www.jaejoonglee.com/treedfusion/">Project Website</a></li>
 <li>🎉 Received Merit Recognition Award from Purdue University.</li>
 <li>📜 "Latent L-systems: Transformer-based Tree Generator" is accepted to ACM Transactions on Graphics, and invited to present at SIGGRAPH2024!</li>
-<li>🎉 Offered Samsung Electronics Scholarship.</li>
+<li>🎉 Offered Samsung Electronics Global Talent Scholarship.</li>
 <li>I got a deep learning certification from the NVIDIA Deep Learning Institute.</li>
 <li>💥 Finished Ph.D. Core Requirements <span style="font-size:0.85em;color:#777;">(Equivalent to a qualification exam in other universities.)</span></li>
 <li>Started the first Ph.D. program semester in CS at Purdue University.</li>
@@ -398,7 +398,7 @@ redirect_from:
 <div class="exp-head"><span class="exp-role">Purdue Employee Recognition Award</span><span class="exp-date">2024</span></div>
 </div>
 <div class="exp-item">
-<div class="exp-head"><span class="exp-role">Samsung Electronics Excellence Scholarship</span><span class="exp-date">2022</span></div>
+<div class="exp-head"><span class="exp-role">Samsung Electronics Global Talent Scholarship</span><span class="exp-date">2022</span></div>
 </div>
 </div>
 
