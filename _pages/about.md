@@ -41,11 +41,12 @@ redirect_from:
 <a href="#fundings">Fundings</a>
 <a href="#work-experience">Work Experience</a>
 <a href="#teaching">Teaching</a>
+<a href="#invited-talks">Invited Talks</a>
 <a href="#awards">Awards</a>
 <a href="#services">Services</a>
 </div>
 
-## Updates <span style="font-weight:400;font-size:0.7em;color:#888;">(last updated July 10, 2026)</span>
+## Updates <span style="font-weight:400;font-size:0.7em;color:#888;">(last updated July 14, 2026)</span>
 {: #updates}
 
 <style>
@@ -77,6 +78,7 @@ redirect_from:
 
 <div class="updates-box">
 <ul>
+<li>🎉 I was awarded two NSF NAIRR Startup GPU awards (2,000 NVIDIA H100 GPU hours each) as a PI.</li>
 <li>📜 My paper, <strong>Accuracy Without Grounding: Measuring the Visual Dependency Gap in Video LLM Benchmarks</strong>, is accepted to ACM Multimedia (ACM MM) 2026!</li>
 <li>📜 My paper on <strong>plant point cloud completion from occluded scans</strong> has been accepted to <em>Plant Phenomics</em> (IF 8.2).</li>
 <li>🏆 My proposal was selected for the Google Research Computing Grant.</li>
@@ -323,8 +325,9 @@ redirect_from:
 
 # Fundings
 
-- Google Research Grant, PI, 2026
-- NSF NAIRR Grant, PI, 2025
+- Google Research TPU Grant, PI, 2026
+- NSF NAIRR Startup Project (×2), PI — 2,000 NVIDIA H100 GPU hours each, 2026
+- NSF NAIRR Pilot Project, PI — 3,600 NVIDIA H100 GPU hours, 2025
 
 # Work Experience
 
@@ -362,6 +365,26 @@ redirect_from:
 <div class="exp-item">
 <div class="exp-head"><span class="exp-role"><strong>CS 177</strong> — Programming with Multimedia Objects (Python)</span><span class="exp-date">Aug 2021 – Dec 2022</span></div>
 <div class="exp-desc">Graduate Teaching Assistant. Held office hours, automated grading scripts, and created exams and assignments.</div>
+</div>
+</div>
+
+# Invited Talks
+
+<div class="exp-list">
+<div class="exp-item">
+<div class="exp-head"><span class="exp-role"><em>Biomass Fuel with AI</em> — U.S. Department of Energy, Washington, D.C.</span><span class="exp-date">2026</span></div>
+</div>
+<div class="exp-item">
+<div class="exp-head"><span class="exp-role"><em>Amodal Segmentation</em> — CS Graphics Group, Purdue University</span><span class="exp-date">2025</span></div>
+</div>
+<div class="exp-item">
+<div class="exp-head"><span class="exp-role"><em>Simulation-Ready 3D Diffusion</em> — Purdue Graduate Student Research Conference</span><span class="exp-date">2024</span></div>
+</div>
+<div class="exp-item">
+<div class="exp-head"><span class="exp-role"><em>Single Image to 3D Reconstruction</em> — Hyundai Motor Group, Seoul, South Korea</span><span class="exp-date">2023</span></div>
+</div>
+<div class="exp-item">
+<div class="exp-head"><span class="exp-role"><em>Neurosymbolic with Transformer</em> — CS Graphics Group, Purdue University</span><span class="exp-date">2022</span></div>
 </div>
 </div>
 
