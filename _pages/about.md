@@ -46,7 +46,7 @@ redirect_from:
 <a href="#services">Services</a>
 </div>
 
-## Updates <span style="font-weight:400;font-size:0.7em;color:#888;">(last updated July 14, 2026)</span>
+## Updates <span style="font-weight:400;font-size:0.7em;color:#888;">(last updated July 18, 2026)</span>
 {: #updates}
 
 <style>
@@ -78,6 +78,7 @@ redirect_from:
 
 <div class="updates-box">
 <ul>
+<li>📜 My paper is accepted to SIGGRAPH Asia 2026!</li>
 <li>🎉 I was awarded two NSF NAIRR Startup GPU awards (2,000 NVIDIA H100 GPU hours each) as a PI.</li>
 <li>📜 My paper, <strong>Accuracy Without Grounding: Measuring the Visual Dependency Gap in Video LLM Benchmarks</strong>, is accepted to ACM Multimedia (ACM MM) 2026!</li>
 <li>📜 My paper on <strong>plant point cloud completion from occluded scans</strong> has been accepted to <em>Plant Phenomics</em> (IF 8.2).</li>
