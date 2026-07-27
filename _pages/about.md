@@ -351,11 +351,11 @@ redirect_from:
 
 <div class="exp-list">
 <div class="exp-item">
-<div class="exp-head"><span class="exp-role"><strong>Zillow</strong> — Applied Scientist</span><span class="exp-date">May 2025 – Aug 2025</span></div>
+<div class="exp-head"><span class="exp-role"><strong>Zillow</strong></span><span class="exp-date">May 2025 – Aug 2025</span></div>
 <div class="exp-desc">Implemented a discrete VAE and latent diffusion backbone for high-fidelity indoor scene synthesis.</div>
 </div>
 <div class="exp-item">
-<div class="exp-head"><span class="exp-role"><strong>Samsung Electronics</strong> — Research Scientist</span><span class="exp-date">May 2022 – Aug 2022</span></div>
+<div class="exp-head"><span class="exp-role"><strong>Samsung Electronics</strong></span><span class="exp-date">May 2022 – Aug 2022</span></div>
 <div class="exp-desc">Investigated out-of-distribution (OOD) detection using ResNet-based feature-space analysis to identify novel defects in semiconductor manufacturing.</div>
 </div>
 </div>
