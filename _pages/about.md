@@ -249,7 +249,7 @@ redirect_from:
 <h3>Tuning-Free Amodal Segmentation via the Occlusion-Free Bias of Inpainting Models</h3>
 <div class="pub-authors"><strong>Jae Joong Lee</strong>, Bedrich Benes and Raymond A. Yeh</div>
 <div class="pub-venue">Association for the Advancement of Artificial Intelligence (AAAI), 2026</div>
-<div class="pub-links"><a href="https://arxiv.org/pdf/2503.18947">Paper</a></div>
+<div class="pub-links"><a href="https://arxiv.org/pdf/2503.18947">Paper</a><a href="https://github.com/JaeLee18/Tuning-Free-Amodal-Segmentation">Code</a></div>
 </div>
 </div>
 <div class="pub-card" data-topics="vr">
