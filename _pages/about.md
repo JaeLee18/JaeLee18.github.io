@@ -410,4 +410,4 @@ redirect_from:
 - Reviewer, International Conference on Computer Vision (ICCV)
 - Reviewer, IEEE Transactions on Visualization and Computer Graphics (TVCG)
 - Reviewer, AAAI Conference on Artificial Intelligence (AAAI)
-- Sergeant, KATUSA (Korean Augmentation to the United States Army), Eighth Army, U.S. Army, 2018–2020
+- Sergeant, KATUSA (Korean Augmentation to the United States Army), Eighth Army, U.S. Army, 2018–2020, ROK Army Chief of Staff Award Recipient
