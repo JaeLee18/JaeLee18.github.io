@@ -46,7 +46,7 @@ redirect_from:
 <a href="#services">Services</a>
 </div>
 
-## Updates <span style="font-weight:400;font-size:0.7em;color:#888;">(last updated July 18, 2026)</span>
+## Updates <span style="font-weight:400;font-size:0.7em;color:#888;">(last updated Sep. 11, 2026)</span>
 {: #updates}
 
 <style>
