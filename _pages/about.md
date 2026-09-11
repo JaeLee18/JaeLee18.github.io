@@ -198,6 +198,15 @@ redirect_from:
 </div>
 
 <div class="pubs">
+<div class="pub-card" data-topics="selected 3d gen">
+<div class="pub-thumb"><img src="/images/greenscapes.png" alt="greenscapes teaser"></div>
+<div class="pub-body">
+<h3>GreenScapes: Optimized Vegetation Configurations in Cities</h3>
+<div class="pub-authors">Patryk Bartkowiak, Marcin Marlewski, Paweł Wójcik, <strong>Jae Joong Lee</strong>, Dominik L. Michels, Bedrich Benes, Sören Pirk, Wojciech Palubicki</div>
+<div class="pub-venue">ACM SIGGRAPH Asia, 2026</div>
+<div class="pub-links"><a href="https://greenscapes-project.github.io/">Project</a><a href="https://github.com/greenscapes-project/greenscapes">Code</a><a href="https://www.youtube.com/watch?v=93ximIbff4M">Video</a></div>
+</div>
+</div>
 <div class="pub-card" data-topics="selected vlm">
 <div class="pub-thumb"><img src="/images/ACM_MM_VDG.png" alt="accuracy without grounding teaser"></div>
 <div class="pub-body">
