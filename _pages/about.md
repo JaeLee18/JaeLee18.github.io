@@ -8,11 +8,30 @@ redirect_from:
   - /about.html
 ---
 
-- Jae Joong Lee is a Computer Science Ph.D. candidate at Purdue University, advised by [Prof. Bedrich Benes](https://www.cs.purdue.edu/homes/bbenes/) in the [Computer Graphics and Visualization Laboratory](https://www.cs.purdue.edu/homes/bbenes/students/). He works at the intersection of computer vision, 3D graphics, and generative AI to create digital twins.
+- Jae Joong Lee is a <span class="hl hl-date">final-year</span> Computer Science Ph.D. candidate at Purdue University (<span class="hl hl-date">expected graduation: May 2027</span>), advised by [Prof. Bedrich Benes](https://www.cs.purdue.edu/homes/bbenes/) in the [Computer Graphics and Visualization Laboratory](https://www.cs.purdue.edu/homes/bbenes/students/). He works at the intersection of <span class="hl hl-topic">computer vision</span>, <span class="hl hl-topic">3D graphics</span>, and <span class="hl hl-topic">generative AI</span> to create <span class="hl hl-topic">digital twins</span>.
   <br/>
 - Jae Joong Lee received a Bachelor's Degree in Computer Science at [Purdue University](https://www.purdue.edu/).
 
 <style>
+/* ---- Inline highlights ---- */
+.hl {
+  padding: 0 3px;
+  border-radius: 2px;
+  font-weight: 600;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+/* career timeline / availability */
+.hl-date {
+  background: linear-gradient(transparent 55%, #ffe08a 55%);
+  color: #6b4a00;
+}
+/* research areas */
+.hl-topic {
+  background: linear-gradient(transparent 55%, #bfdcf5 55%);
+  color: #14405f;
+}
+
 .quicknav {
   display: flex;
   flex-wrap: wrap;
