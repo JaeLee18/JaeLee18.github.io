@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-- Jae Joong Lee is a <span class="hl hl-date">final-year</span> Computer Science Ph.D. candidate at Purdue University (<span class="hl hl-date">expected graduation: May 2027</span>), advised by [Prof. Bedrich Benes](https://www.cs.purdue.edu/homes/bbenes/) in the [Computer Graphics and Visualization Laboratory](https://www.cs.purdue.edu/homes/bbenes/students/). He works at the intersection of <span class="hl hl-topic">computer vision</span>, <span class="hl hl-topic">3D graphics</span>, and <span class="hl hl-topic">generative AI</span> to create <span class="hl hl-topic">digital twins</span>.
+- Jae Joong Lee is a <span class="hl hl-date">final-year</span> Computer Science Ph.D. candidate at Purdue University (<span class="hl hl-date">expected graduation: May 2027</span>), advised by [Prof. Bedrich Benes](https://www.cs.purdue.edu/homes/bbenes/) in the [Computer Graphics and Visualization Laboratory](https://www.cs.purdue.edu/homes/bbenes/students/). He works at the intersection of <span class="hl hl-topic">computer vision</span>, <span class="hl hl-topic">3D graphics</span>, and <span class="hl hl-topic">generative AI</span>, integrating <span class="hl hl-topic">neurosymbolic modeling</span> to create <span class="hl hl-topic">simulation-ready digital twins</span>, with a focus on plants and trees.
   <br/>
 - Jae Joong Lee received a Bachelor's Degree in Computer Science at [Purdue University](https://www.purdue.edu/).
 
@@ -56,6 +56,7 @@ redirect_from:
 </style>
 
 <div class="quicknav">
+<a href="#exhibitions">Exhibitions</a>
 <a href="#publications">Publications</a>
 <a href="#fundings">Fundings</a>
 <a href="#work-experience">Work Experience</a>
@@ -120,6 +121,59 @@ redirect_from:
 <li>🎓 Received Bachelor of Science in Computer Science (CS) at Purdue University.</li>
 </ul>
 </div>
+
+# Exhibitions
+{: #exhibitions}
+
+<style>
+.exhibition-card {
+  padding: 24px;
+  margin-bottom: 1.2em;
+  border: 1px solid #d7dbe2;
+  border-left: 4px solid #1e3a5f;
+  border-radius: 8px;
+  background: #f8fafc;
+}
+.exhibition-card .exhibition-label {
+  margin: 0 0 0.5em;
+  color: #1e3a5f;
+  font-size: 0.85em;
+  font-weight: 600;
+}
+.exhibition-card h2 { margin: 0 0 0.4em; font-size: 1.4em; }
+.exhibition-card .exhibition-venue { color: #555; margin-bottom: 1em; }
+.exhibition-card .exhibition-photo { display: block; margin: 0 0 1.2em; }
+.exhibition-photo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: 6px;
+}
+.exhibition-photo figcaption { margin-top: 0.5em; color: #555; font-size: 0.75em; }
+.exhibition-photo figcaption a { color: #1e3a5f; }
+.exhibition-card .exhibition-links { display: flex; flex-wrap: wrap; gap: 10px 20px; margin-bottom: 0; }
+.exhibition-links a { color: #1e3a5f; font-weight: 600; text-decoration: underline; }
+.exhibition-links a:hover { color: #16293f; }
+.exhibition-links a:focus-visible { outline: 2px solid #1e3a5f; outline-offset: 4px; }
+@media (max-width: 600px) {
+  .exhibition-card { padding: 18px; }
+}
+</style>
+
+<article class="exhibition-card" aria-labelledby="re-leaf-title">
+<p class="exhibition-label">Venice Architecture Biennale · 2025</p>
+<h2 id="re-leaf-title">Re-Leaf</h2>
+<p>I participated in <strong>Re-Leaf</strong> at the Venice Architecture Biennale, where my work on <strong>Tree-D Fusion</strong> was featured in collaboration with <a href="https://senseable.mit.edu/">MIT Senseable City Lab</a>.</p>
+<p class="exhibition-venue">19th International Architecture Exhibition, La Biennale di Venezia<br/>Arsenale, Venice, Italy · May 10 – November 23, 2025</p>
+<figure class="exhibition-photo">
+<img src="{{ '/images/re-leaf-venice-biennale.jpg' | relative_url }}" alt="Re-Leaf installation at the Arsenale, with green-lit vertical sculptures and suspended screens between brick columns." width="1000" height="667" loading="lazy" decoding="async"/>
+<figcaption>Re-Leaf at the Venice Architecture Biennale, 2025. Image source: <a href="https://www.dubaifuture.ae/latest-news/dubai-future-foundation-mit-senseable-city-lab-unveil-worlds-first-ai-project-for-tree-cooled-cities-at-venice-biennale/">Dubai Future Foundation</a>.</figcaption>
+</figure>
+<p>Re-Leaf explores how urban trees cool cities through shade and evapotranspiration, and how their placement can help reduce heat exposure.</p>
+<p class="exhibition-links"><a href="https://www.labiennale.org/en/architecture/2025/artificial/re-leaf">Official Biennale exhibition &amp; credits</a><a href="https://www.jaejoonglee.com/treedfusion/">Tree-D Fusion research project</a></p>
+</article>
 
 # Publications
 
@@ -217,6 +271,15 @@ redirect_from:
 </div>
 
 <div class="pubs">
+<div class="pub-card" data-topics="3d">
+<div class="pub-thumb"><img src="{{ '/images/oc-gs.gif' | relative_url }}" alt="OC-GS input turntable video, reconstructed rendering, and surface normals rotating side by side" loading="lazy"></div>
+<div class="pub-body">
+<h3>OC-GS: Gaussian Splatting for Irregular Turntable Capture</h3>
+<div class="pub-authors"><strong>Jae Joong Lee</strong>, Bedrich Benes</div>
+<div class="pub-venue">arXiv, 2026</div>
+<div class="pub-links"><a href="https://arxiv.org/abs/2609.31572">Paper</a><a href="https://github.com/JaeLee18/OC-GS-Gaussian-Splatting-for-Irregular-Turntable-Capture">Code</a></div>
+</div>
+</div>
 <div class="pub-card" data-topics="selected 3d gen">
 <div class="pub-thumb"><img src="/images/greenscapes.png" alt="greenscapes teaser"></div>
 <div class="pub-body">
@@ -354,7 +417,7 @@ redirect_from:
 
 # Fundings
 
-- Google Research TPU Grant, PI, 2026
+- Google Research TPU Grant, PI — $50,000, 2026
 - NSF NAIRR Startup Project (×2), PI — 2,000 NVIDIA H100 GPU hours each, 2026
 - NSF NAIRR Pilot Project, PI — 3,600 NVIDIA H100 GPU hours, 2025
 
