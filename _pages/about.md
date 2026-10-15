@@ -66,7 +66,7 @@ redirect_from:
 <a href="#services">Services</a>
 </div>
 
-## Updates <span style="font-weight:400;font-size:0.7em;color:#888;">(last updated Sep. 11, 2026)</span>
+## Updates <span style="font-weight:400;font-size:0.7em;color:#888;">(last updated Oct. 15, 2026)</span>
 {: #updates}
 
 <style>
@@ -98,6 +98,7 @@ redirect_from:
 
 <div class="updates-box">
 <ul>
+<li>📜 My paper, <strong>Three LiDARs, Twenty-Five Datasets: Cross-Source Generalization in Tree-Species Recognition</strong>, is accepted to WACV 2027 (Evaluations &amp; Datasets track)! Our classifier ranks first on the FOR-species20K leaderboard. <a href="https://www.jaejoonglee.com/wacv27_forspecies20k/">Project Website</a> <a href="https://github.com/JaeLee18/FOR20K-lidar-tree-species">Code</a></li>
 <li>📜 My paper is accepted to SIGGRAPH Asia 2026!</li>
 <li>🎉 I was awarded two NSF NAIRR Startup GPU awards (2,000 NVIDIA H100 GPU hours each) as a PI.</li>
 <li>📜 My paper, <strong>Accuracy Without Grounding: Measuring the Visual Dependency Gap in Video LLM Benchmarks</strong>, is accepted to ACM Multimedia (ACM MM) 2026!</li>
@@ -224,6 +225,17 @@ redirect_from:
   font-size: 0.9em;
 }
 .pub-links a:hover { background-color: #16293f; }
+.pub-links .is-disabled {
+  display: inline-block;
+  padding: 7px 16px;
+  margin: 4px 6px 0 0;
+  background-color: #e9ecf1;
+  color: #8a94a3;
+  border-radius: 4px;
+  font-size: 0.9em;
+  cursor: not-allowed;
+}
+.pub-links .is-disabled small { font-size: 0.8em; font-weight: 400; margin-left: 4px; }
 
 @media (max-width: 600px) {
   .pub-card { flex-direction: column; align-items: flex-start; }
@@ -271,6 +283,15 @@ redirect_from:
 </div>
 
 <div class="pubs">
+<div class="pub-card" data-topics="selected 3d">
+<div class="pub-thumb"><img src="{{ '/images/for20k.jpg' | relative_url }}" alt="Fifty LiDAR tree scans in a grid, each labeled with the predicted species; 46 of 50 named correctly" loading="lazy"></div>
+<div class="pub-body">
+<h3>Three LiDARs, Twenty-Five Datasets: Cross-Source Generalization in Tree-Species Recognition</h3>
+<div class="pub-authors"><strong>Jae Joong Lee</strong>, Bedrich Benes</div>
+<div class="pub-venue">IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2027</div>
+<div class="pub-links"><span class="is-disabled" aria-disabled="true" title="arXiv link coming soon">Paper <small>(arXiv soon)</small></span><a href="https://www.jaejoonglee.com/wacv27_forspecies20k/">Project</a><a href="https://github.com/JaeLee18/FOR20K-lidar-tree-species">Code</a></div>
+</div>
+</div>
 <div class="pub-card" data-topics="3d">
 <div class="pub-thumb"><img src="{{ '/images/oc-gs.gif' | relative_url }}" alt="OC-GS input turntable video, reconstructed rendering, and surface normals rotating side by side" loading="lazy"></div>
 <div class="pub-body">
